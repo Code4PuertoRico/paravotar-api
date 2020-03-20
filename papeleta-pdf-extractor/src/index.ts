@@ -1,66 +1,98 @@
 import path from 'path';
 import fs from 'fs';
 import sharp from 'sharp';
-import { OCR } from './ocr';
+import { getOCRText } from './ocr';
 import { USE_OCR } from './settings';
+import { config } from './config/estatal';
 
 const originalImage = path.resolve(__dirname, '../static/gov.jpg');
 
-const N_COLUMNS = 7;
-const CELL_WIDTH = 385;
-const STARTING_X = 195;
-const PERCENTAGE_DELTA = 0.01;
+const OUTPUT_DIR = path.resolve(__dirname, '../output');
 
-let c = 1;
-
-const dir = 'output';
-
-if (!fs.existsSync(dir)) {
-  fs.mkdirSync(dir);
+if (!fs.existsSync(OUTPUT_DIR)) {
+  fs.mkdirSync(OUTPUT_DIR);
 }
 
-// const data = [];
+const { CELL_WIDTH, N_COLUMNS, PERCENTAGE_DELTA, STARTING_X, rows } = config;
 
 const main = async () => {
-  while (c <= N_COLUMNS) {
-    const outputImage = path.resolve(__dirname, `../output/img-${c}.jpg`);
-    const delta = (c - 1) * (CELL_WIDTH * PERCENTAGE_DELTA);
-    const left = Math.trunc(STARTING_X + (c - 1) * CELL_WIDTH + delta);
-    const right = Math.trunc(STARTING_X + c * CELL_WIDTH + delta);
+  const data = [];
 
-    const buffer = await sharp(originalImage)
-      .extract({ left, top: 365, width: right - left, height: 255 })
-      .toBuffer();
+  for (let i = 0; i < rows.length; i++) {
+    const rowData = [];
+    let c = 1;
+    const {
+      MAIN_TOP,
+      MAIN_HEIGHT,
+      N_LOGO,
+      LOGO_TOP,
+      LOGO_HEIGHT,
+      LOGO_LEFT_DELTA,
+      LOGO_RIGHT_DELTA,
+      IMAGE_NAME_PREFIX,
+      hasLogos,
+    } = rows[i];
 
-    fs.writeFileSync(outputImage, buffer);
+    while (c <= N_COLUMNS) {
+      const cell: { [key: string]: any } = {};
+      const slicedImagePath = path.resolve(
+        __dirname,
+        `${OUTPUT_DIR}/${IMAGE_NAME_PREFIX}-img-${c}.jpg`
+      );
 
-    if (USE_OCR) {
+      const delta = (c - 1) * (CELL_WIDTH * PERCENTAGE_DELTA);
+      const left = Math.trunc(STARTING_X + (c - 1) * CELL_WIDTH + delta);
+      const right = Math.trunc(STARTING_X + c * CELL_WIDTH + delta);
 
-      const resp = await OCR(outputImage);
-
-      const ocrText = resp.ParsedResults[0].ParsedText;
-
-      console.log(ocrText);
-    }
-
-    let logoFilename = path.resolve(__dirname, `../output/logo-${c}.jpg`);
-
-    if (c <= 4) {
-      const logoBuffer = await sharp(originalImage)
+      const buffer = await sharp(originalImage)
         .extract({
-          left: left + 130,
-          top: 370,
-          width: right - left - 265,
-          height: 110,
+          left,
+          top: MAIN_TOP,
+          width: right - left,
+          height: MAIN_HEIGHT,
         })
         .toBuffer();
-      fs.writeFileSync(logoFilename, logoBuffer);
-    } else {
-      logoFilename = '';
-    }
 
-    c += 1;
+      fs.writeFileSync(slicedImagePath, buffer);
+
+      cell.img = slicedImagePath;
+
+      if (USE_OCR) {
+        const resp = await getOCRText(slicedImagePath);
+
+        const ocrText = resp.ParsedResults[0].ParsedText;
+
+        cell.ocrResult = ocrText;
+      }
+
+      let logoFilePath = path.resolve(__dirname, `${OUTPUT_DIR}/${IMAGE_NAME_PREFIX}-logo-${c}.jpg`);
+
+      if (hasLogos && c <= N_LOGO!) {
+        const logoBuffer = await sharp(originalImage)
+          .extract({
+            left: left + LOGO_LEFT_DELTA!,
+            top: LOGO_TOP!,
+            width: right - left - LOGO_RIGHT_DELTA!,
+            height: LOGO_HEIGHT!,
+          })
+          .toBuffer();
+        fs.writeFileSync(logoFilePath, logoBuffer);
+
+        cell.logoImg = logoFilePath;
+      } else {
+        logoFilePath = '';
+      }
+
+      rowData.push(cell);
+
+      c += 1;
+    }
+    data.push(rowData);
   }
+
+  console.log(JSON.stringify(data, null, 2));
+
+  fs.writeFileSync(path.resolve(__dirname, `${OUTPUT_DIR}/data.json`), JSON.stringify(data, null, 2));
 };
 
 main();

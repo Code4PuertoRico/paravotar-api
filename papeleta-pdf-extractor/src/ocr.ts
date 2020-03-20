@@ -4,7 +4,7 @@ import FormData from 'form-data';
 import fetch from 'node-fetch';
 import { OCR_API_KEY } from './settings';
 
-export const OCR = (
+export const getOCRText = (
   filename: string,
   overlay = false,
   apiKey = OCR_API_KEY,
@@ -23,7 +23,5 @@ export const OCR = (
       apikey: apiKey,
     },
     body: form,
-  }).then(function(res) {
-    return res.json();
-  });
+  }).then(res => res.json());
 };
