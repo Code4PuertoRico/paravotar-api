@@ -1,4 +1,5 @@
 export const config = {
+  filePath: '../static/gov.jpg',
   N_COLUMNS: 7,
   CELL_WIDTH: 385,
   STARTING_X: 195,

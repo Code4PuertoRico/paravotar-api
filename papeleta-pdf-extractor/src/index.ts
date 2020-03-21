@@ -3,9 +3,9 @@ import fs from 'fs';
 import sharp from 'sharp';
 import { getOCRText } from './ocr';
 import { USE_OCR } from './settings';
-import { config } from './config/estatal';
+import { config } from './config/legislativa-adjuntas';
 
-const originalImage = path.resolve(__dirname, '../static/gov.jpg');
+const originalImage = path.resolve(__dirname, config.filePath);
 
 const OUTPUT_DIR = path.resolve(__dirname, '../output');
 
@@ -87,6 +87,7 @@ const main = async () => {
 
       c += 1;
     }
+
     data.push(rowData);
   }
 
