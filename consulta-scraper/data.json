@@ -1,0 +1,924 @@
+[
+  {
+    "text": "Gobernador y Comisionado Residente\n\t",
+    "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Gobernador%20y%20Comisionado%20Residente.pdf"
+  },
+  {
+    "pueblo": "Adjuntas",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Adjuntas.pdf",
+    "legislativas": [
+      {
+        "precinto": "055",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/055%20Adjuntas.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Aguada",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Aguada.pdf",
+    "legislativas": [
+      {
+        "precinto": "038",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/038%20Aguada.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Aguadilla",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Aguadilla.pdf",
+    "legislativas": [
+      {
+        "precinto": "035",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/035%20Aguadilla.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Aguas Buenas",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Aguas%20Buenas.pdf",
+    "legislativas": [
+      {
+        "precinto": "081",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/081%20Aguas%20Buenas.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Aibonito",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Aibonito.pdf",
+    "legislativas": [
+      {
+        "precinto": "069",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/069%20Aibonito.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Añasco",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/A%C3%B1asco.pdf",
+    "legislativas": [
+      {
+        "precinto": "040",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/040%20A%C3%B1asco.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Arecibo",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Arecibo.pdf",
+    "legislativas": [
+      {
+        "precinto": "026",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/026%20Arecibo.pdf"
+      },
+      {
+        "precinto": "027",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/027%20Arecibo.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Arroyo",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Arroyo.pdf",
+    "legislativas": [
+      {
+        "precinto": "080",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/080%20Arroyo.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Barceloneta",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Barceloneta.pdf",
+    "legislativas": [
+      {
+        "precinto": "025",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/025%20Barceloneta.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Barranquitas",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Barranquitas.pdf",
+    "legislativas": [
+      {
+        "precinto": "070",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/070%20Barranquitas.pdf"
+      },
+      {
+        "precinto": "071",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/071%20Barranquitas.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Bayamón",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Bayam%C3%B3n.pdf",
+    "legislativas": [
+      {
+        "precinto": "009",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/009%20Bayam%C3%B3n.pdf"
+      },
+      {
+        "precinto": "010",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/010%20Bayam%C3%B3n.pdf"
+      },
+      {
+        "precinto": "011",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/011%20Bayam%C3%B3n.pdf"
+      },
+      {
+        "precinto": "012",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/012%20Bayam%C3%B3n.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Cabo Rojo",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Cabo%20Rojo.pdf",
+    "legislativas": [
+      {
+        "precinto": "046",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/046%20Cabo%20Rojo.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Caguas",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Caguas.pdf",
+    "legislativas": [
+      {
+        "precinto": "082",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/082%20Caguas.pdf"
+      },
+      {
+        "precinto": "083",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/083%20Caguas.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Camuy",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Camuy.pdf",
+    "legislativas": [
+      {
+        "precinto": "030",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/030%20Camuy.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Canóvanas",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Can%C3%B3vanas.pdf",
+    "legislativas": [
+      {
+        "precinto": "104",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/104%20Can%C3%B3vanas.pdf"
+      },
+      {
+        "precinto": "105",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/105%20Can%C3%B3vanas.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Carolina",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Carolina.pdf",
+    "legislativas": [
+      {
+        "precinto": "106",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/106%20Carolina.pdf"
+      },
+      {
+        "precinto": "107",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/107%20Carolina.pdf"
+      },
+      {
+        "precinto": "108",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/108%20Carolina.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Cataño",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Cata%C3%B1o.pdf",
+    "legislativas": [
+      {
+        "precinto": "008",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/008%20Cata%C3%B1o.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Cayey",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Cayey.pdf",
+    "legislativas": [
+      {
+        "precinto": "077",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/077%20Cayey.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Ceiba",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Ceiba.pdf",
+    "legislativas": [
+      {
+        "precinto": "098",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/098%20Ceiba.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Ciales",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Ciales.pdf",
+    "legislativas": [
+      {
+        "precinto": "023",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/023%20Ciales.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Cidra",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Cidra.pdf",
+    "legislativas": [
+      {
+        "precinto": "076",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/076%20Cidra.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Coamo",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Coamo.pdf",
+    "legislativas": [
+      {
+        "precinto": "068",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/068%20Coamo.pdf"
+      },
+      {
+        "precinto": "075",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/075%20Coamo.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Comerio",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Comerio.pdf",
+    "legislativas": [
+      {
+        "precinto": "074",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/074%20Comerio.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Corozal",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Corozal.pdf",
+    "legislativas": [
+      {
+        "precinto": "072",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/072%20Corozal.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Culebra",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Culebra.pdf",
+    "legislativas": [
+      {
+        "precinto": "097",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/097%20Culebra.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Dorado",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Dorado.pdf",
+    "legislativas": [
+      {
+        "precinto": "015",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/015%20Dorado.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Fajardo",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Fajardo.pdf",
+    "legislativas": [
+      {
+        "precinto": "099",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/099%20Fajardo.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Florida",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Florida.pdf",
+    "legislativas": [
+      {
+        "precinto": "024",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/024%20Florida.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Guánica",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Gu%C3%A1nica.pdf",
+    "legislativas": [
+      {
+        "precinto": "048",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/048%20Gu%C3%A1nica.pdf"
+      }
+    ]
+  },
+  {
+    "legislativas": []
+  },
+  {
+    "legislativas": []
+  },
+  {
+    "pueblo": "Guayama",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Guayama.pdf",
+    "legislativas": [
+      {
+        "precinto": "079",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/079%20Guayama.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Guayanilla",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Guayanilla.pdf",
+    "legislativas": [
+      {
+        "precinto": "058",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/058%20Guayanilla.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Guaynabo",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Guaynabo.pdf",
+    "legislativas": [
+      {
+        "precinto": "006",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/006%20Guaynabo.pdf"
+      },
+      {
+        "precinto": "007",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/007%20Guaynabo.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Gurabo",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Gurabo.pdf",
+    "legislativas": [
+      {
+        "precinto": "084",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/084%20Gurabo.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Hatillo",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Hatillo.pdf",
+    "legislativas": [
+      {
+        "precinto": "028",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/028%20Hatillo.pdf"
+      },
+      {
+        "precinto": "029",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/029%20Hatillo.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Hormigueros",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Hormigueros.pdf",
+    "legislativas": [
+      {
+        "precinto": "045",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/045%20Hormigueros.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Humacao",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Humacao.pdf",
+    "legislativas": [
+      {
+        "precinto": "094",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/094%20Humacao.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Isabela",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Isabela.pdf",
+    "legislativas": [
+      {
+        "precinto": "032",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/032%20Isabela.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Jayuya",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Jayuya.pdf",
+    "legislativas": [
+      {
+        "precinto": "056",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/056%20Jayuya.pdf"
+      },
+      {
+        "precinto": "057",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/057%20Jayuya.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Juana Diaz",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Juana%20Diaz.pdf",
+    "legislativas": [
+      {
+        "precinto": "063",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/063%20Juana%20Diaz.pdf"
+      },
+      {
+        "precinto": "064",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/064%20Juana%20Diaz.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Juncos",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Juncos.pdf",
+    "legislativas": [
+      {
+        "precinto": "088",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/088%20Juncos.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Lajas",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Lajas.pdf",
+    "legislativas": [
+      {
+        "precinto": "047",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/047%20Lajas.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Lares",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Lares.pdf",
+    "legislativas": [
+      {
+        "precinto": "053",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/053%20Lares.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Las Marías",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Las%20Mar%C3%ADas.pdf",
+    "legislativas": [
+      {
+        "precinto": "034",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/034%20Las%20Mar%C3%ADas.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Las Piedras",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Las%20Piedras.pdf",
+    "legislativas": [
+      {
+        "precinto": "089",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/089%20Las%20Piedras.pdf"
+      },
+      {
+        "precinto": "090",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/090%20Las%20Piedras.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Loiza",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Loiza.pdf",
+    "legislativas": [
+      {
+        "precinto": "103 Loíza",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/103%20Lo%C3%ADza.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Luquillo",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Luquillo.pdf",
+    "legislativas": [
+      {
+        "precinto": "100",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/100%20Luquillo.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Manati",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Manati.pdf",
+    "legislativas": [
+      {
+        "precinto": "021 Manatí",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/021%20Manat%C3%AD.pdf"
+      },
+      {
+        "precinto": "022 Manatí",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/022%20Manat%C3%AD.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Maricao",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Maricao.pdf",
+    "legislativas": [
+      {
+        "precinto": "050",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/050%20Maricao.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Maunabo",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Maunabo.pdf",
+    "legislativas": [
+      {
+        "precinto": "092",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/092%20Maunabo.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Mayagüez",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Mayag%C3%BCez.pdf",
+    "legislativas": [
+      {
+        "precinto": "041",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/041%20Mayag%C3%BCez.pdf"
+      },
+      {
+        "precinto": "042",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/042%20Mayag%C3%BCez.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Moca",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Moca.pdf",
+    "legislativas": [
+      {
+        "precinto": "036",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/036%20Moca.pdf"
+      },
+      {
+        "precinto": "037",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/037%20Moca.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Morovis",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Morovis.pdf",
+    "legislativas": [
+      {
+        "precinto": "020",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/020%20Morovis.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Naguabo",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Naguabo.pdf",
+    "legislativas": [
+      {
+        "precinto": "095",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/095%20Naguabo.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Naranjito",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Naranjito.pdf",
+    "legislativas": [
+      {
+        "precinto": "073",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/073%20Naranjito.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Orocovis",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Orocovis.pdf",
+    "legislativas": [
+      {
+        "precinto": "066",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/066%20Orocovis.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Patillas",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Patillas.pdf",
+    "legislativas": [
+      {
+        "precinto": "091",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/091%20Patillas.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Peñuelas",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Pe%C3%B1uelas.pdf",
+    "legislativas": [
+      {
+        "precinto": "059",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/059%20Pe%C3%B1uelas.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Ponce",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Ponce.pdf",
+    "legislativas": [
+      {
+        "precinto": "060",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/060%20Ponce.pdf"
+      },
+      {
+        "precinto": "061",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/061%20Ponce.pdf"
+      },
+      {
+        "precinto": "062",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/062%20Ponce.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Quebradillas",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Quebradillas.pdf",
+    "legislativas": [
+      {
+        "precinto": "031",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/031%20Quebradillas.pdf"
+      }
+    ]
+  },
+  {
+    "legislativas": []
+  },
+  {
+    "legislativas": []
+  },
+  {
+    "pueblo": "Rincón",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Rinc%C3%B3n.pdf",
+    "legislativas": [
+      {
+        "precinto": "039",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/039%20Rinc%C3%B3n.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Rio Grande",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Rio%20Grande.pdf",
+    "legislativas": [
+      {
+        "precinto": "101 Río Grande",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/101%20R%C3%ADo%20Grande.pdf"
+      },
+      {
+        "precinto": "102 Río Grande",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/102%20R%C3%ADo%20Grande.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Sabana Grande",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Sabana%20Grande.pdf",
+    "legislativas": [
+      {
+        "precinto": "049",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/049%20Sabana%20Grande.pdf"
+      }
+    ]
+  },
+  {
+    "legislativas": [
+      {
+        "precinto": "078 Salinas",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/078%20Salinas.pdf"
+      },
+      {
+        "precinto": "085 Salinas",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/085%20Salinas.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "San Germán",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/San%20Germ%C3%A1n.pdf",
+    "legislativas": [
+      {
+        "precinto": "043",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/043%20San%20Germ%C3%A1n.pdf"
+      },
+      {
+        "precinto": "044",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/044%20San%20Germ%C3%A1n.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "San Juan",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/San%20Juan.pdf",
+    "legislativas": [
+      {
+        "precinto": "001",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/001%20San%20Juan.pdf"
+      },
+      {
+        "precinto": "002",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/002%20San%20Juan.pdf"
+      },
+      {
+        "precinto": "003",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/003%20San%20Juan.pdf"
+      },
+      {
+        "precinto": "004",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/004%20San%20Juan.pdf"
+      },
+      {
+        "precinto": "005",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/005%20San%20Juan.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "San Lorenzo",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/San%20Lorenzo.pdf",
+    "legislativas": [
+      {
+        "precinto": "086",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/086%20San%20Lorenzo.pdf"
+      },
+      {
+        "precinto": "087",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/087%20San%20Lorenzo.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "San Sebastián",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/San%20Sebasti%C3%A1n.pdf",
+    "legislativas": [
+      {
+        "precinto": "033",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/033%20San%20Sebasti%C3%A1n.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Santa Isabel",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Santa%20Isabel.pdf",
+    "legislativas": [
+      {
+        "precinto": "067",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/067%20Santa%20Isabel.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Toa Alta",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Toa%20Alta.pdf",
+    "legislativas": [
+      {
+        "precinto": "013",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/013%20Toa%20Alta.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Toa Baja",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Toa%20Baja.pdf",
+    "legislativas": [
+      {
+        "precinto": "014",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/014%20Toa%20Baja.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Trujillo Alto",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Trujillo%20Alto.pdf",
+    "legislativas": [
+      {
+        "precinto": "109",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/109%20Trujillo%20Alto.pdf"
+      },
+      {
+        "precinto": "110",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/110%20Trujillo%20Alto.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Utuado",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Utuado.pdf",
+    "legislativas": [
+      {
+        "precinto": "054",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/054%20Utuado.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Vega Alta",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Vega%20Alta.pdf",
+    "legislativas": [
+      {
+        "precinto": "016",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/016%20Vega%20Alta.pdf"
+      },
+      {
+        "precinto": "017",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/017%20Vega%20Alta.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Vega Baja",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Vega%20Baja.pdf",
+    "legislativas": [
+      {
+        "precinto": "018",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/018%20Vega%20Baja.pdf"
+      },
+      {
+        "precinto": "019",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/019%20Vega%20Baja.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Vieques",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Vieques.pdf",
+    "legislativas": [
+      {
+        "precinto": "096",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/096%20Vieques.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Villalba",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Villalba.pdf",
+    "legislativas": [
+      {
+        "precinto": "065",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/065%20Villalba.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Yabucoa",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Yabucoa.pdf",
+    "legislativas": [
+      {
+        "precinto": "093",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/093%20Yabucoa.pdf"
+      }
+    ]
+  },
+  {
+    "pueblo": "Yauco",
+    "municipalLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/Yauco.pdf",
+    "legislativas": [
+      {
+        "precinto": "051",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/051%20Yauco.pdf"
+      },
+      {
+        "precinto": "052",
+        "papeletaLink": "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Papeletas%20Modelo%20EG2016/052%20Yauco.pdf"
+      }
+    ]
+  }
+]
