@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "extract-papeletas": "node ./papeletas/index.js && node ./papeletas/precints.js && node ./papeletas/counties.js"
   },
   "author": "",
   "license": "ISC",

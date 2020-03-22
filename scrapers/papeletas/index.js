@@ -1,15 +1,12 @@
+const fs = require('fs');
+const path = require('path');
 const puppeteer = require("puppeteer");
-const _ = require("lodash");
 
 const ceeUrlPage1 =
   "http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Paginas/Papeletas-Modelo---Elecciones-Generales-2016.aspx";
 
-const ceeUrlPage2 = 'http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Paginas/Papeletas-Modelo---Elecciones-Generales-2016.aspx?Paged=TRUE&p_GroupCol1=Gu%c3%a1nica&PageFirstRow=31&&View={F4D0C05A-E05B-4A18-A701-05E9AD55491D}';
-
-const ceeUrlPage3 = 'http://ww2.ceepur.org/es-pr/Eventos%20Electorales/Paginas/Papeletas-Modelo---Elecciones-Generales-2016.aspx?Paged=TRUE&p_GroupCol1=Quebradillas&PageFirstRow=61&&View={F4D0C05A-E05B-4A18-A701-05E9AD55491D}';
-
 const main = async () => {
-  const browser = await puppeteer.launch({ headless: false });
+  const browser = await puppeteer.launch({ headless: true });
 
   try {
     const page = await browser.newPage();
@@ -218,7 +215,13 @@ const main = async () => {
 
     const data = page1Data.concat(page2Data).concat(page3Data);
 
-    console.log(JSON.stringify(data, null, 2));
+    const OUTPUT_DIR = path.resolve(__dirname, '../output');
+
+    if (!fs.existsSync(OUTPUT_DIR)) {
+      fs.mkdirSync(OUTPUT_DIR);
+    }
+
+    fs.writeFileSync(path.resolve(__dirname, `../output/papeletas.json`), JSON.stringify(data, null, 2));
   } catch (e) {
     console.log(e);
     process.exit();
