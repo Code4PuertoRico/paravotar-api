@@ -13,7 +13,7 @@ const counties = data
     const key = Object.keys(curr)[0];
     return {
       ...acum,
-      [key]: curr[key]
+      [_.camelCase(key)]: curr[key]
     };
   }, {});
 
