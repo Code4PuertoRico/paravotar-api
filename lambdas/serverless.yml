@@ -23,6 +23,14 @@ service: scrape-lambda
 provider:
   name: aws
   runtime: nodejs12.x
+  region: us-east-1
+
+  iamRoleStatements:
+    - Effect: "Allow"
+      Action:
+        - "s3:ListBucket"
+        - "s3:GetObject"
+      Resource: "arn:aws:s3:::paravotar/*"
 
 plugins:
   - serverless-webpack
@@ -117,12 +125,12 @@ functions:
 #      variable2: value2
 
 # you can add CloudFormation resource templates here
-#resources:
-#  Resources:
-#    NewResource:
-#      Type: AWS::S3::Bucket
-#      Properties:
-#        BucketName: my-new-bucket
+resources:
+ Resources:
+   NewResource:
+     Type: AWS::S3::Bucket
+     Properties:
+       BucketName: paravotar
 #  Outputs:
 #     NewOutput:
 #       Description: "Description for the output"

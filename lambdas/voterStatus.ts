@@ -5,8 +5,17 @@ import middy from "@middy/core";
 import cors from "@middy/http-cors";
 import doNotWaitForEmptyEventLoop from '@middy/do-not-wait-for-empty-event-loop';
 import httpErrorHandler from '@middy/http-error-handler';
+import AWS from 'aws-sdk';
 
+const S3 = new AWS.S3();
 const ceeUrl = "http://consulta.ceepur.org";
+const bucket = "paravotar";
+
+const precintsFile = "precints.json";
+const countiesFile = "counties.json";
+const papeletasFile = "papeletas.json";
+
+
 
 const handler = async (event: any) => {
   try {
@@ -25,7 +34,7 @@ const handler = async (event: any) => {
         body: JSON.stringify({ error: 'invalid or missing voterId' })
       };
     }
-    
+
     const page = await browser.newPage();
     await page.goto(ceeUrl);
 
@@ -61,9 +70,23 @@ const handler = async (event: any) => {
         };
       }, {});
 
+
+    const precinto = await S3.getObject({
+      Bucket: bucket,
+      Key: precintsFile,
+      ResponseContentType: 'application/json'
+    }).promise();
+
+    const payload = {
+      ...data,
+      papeletas: {
+        precinto: _.get(precinto, data.precinto, null),
+      }
+    };
+
     return {
       statusCode: 200,
-      body: JSON.stringify(data, null, 2)
+      body: JSON.stringify(payload, null, 2)
     };
   } catch (e) {
     console.log(e);
