@@ -16,7 +16,6 @@ const countiesFile = "counties.json";
 const papeletasFile = "papeletas.json";
 
 
-
 const handler = async (event: any) => {
   try {
     const executablePath = await chromium.executablePath;
@@ -71,16 +70,33 @@ const handler = async (event: any) => {
       }, {});
 
 
-    const precinto = await S3.getObject({
+    const precintos = JSON.parse((await S3.getObject({
       Bucket: bucket,
       Key: precintsFile,
       ResponseContentType: 'application/json'
-    }).promise();
+    }).promise()).Body.toString());
+
+    const counties = JSON.parse((await S3.getObject({
+      Bucket: bucket,
+      Key: countiesFile,
+      ResponseContentType: 'application/json'
+    }).promise()).Body.toString());
+
+    const papeletas = JSON.parse((await S3.getObject({
+      Bucket: bucket,
+      Key: papeletasFile,
+      ResponseContentType: 'application/json'
+    }).promise()).Body.toString());
+
+    const p = _.get(precintos, data.precinto, null);
 
     const payload = {
       ...data,
+      pueblo: p.pueblo,
       papeletas: {
-        precinto: _.get(precinto, data.precinto, null),
+        legislativo: p.papeleta,
+        municipal: counties[_.camelCase(p.pueblo)],
+        estatal: papeletas[0].papeletaLink
       }
     };
 
