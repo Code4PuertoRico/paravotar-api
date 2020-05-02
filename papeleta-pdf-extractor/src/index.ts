@@ -65,7 +65,10 @@ const main = async () => {
         cell.ocrResult = ocrText;
       }
 
-      let logoFilePath = path.resolve(__dirname, `${OUTPUT_DIR}/${IMAGE_NAME_PREFIX}-logo-${c}.jpg`);
+      let logoFilePath = path.resolve(
+        __dirname,
+        `${OUTPUT_DIR}/${IMAGE_NAME_PREFIX}-logo-${c}.jpg`
+      );
 
       if (hasLogos && c <= N_LOGO!) {
         const logoBuffer = await sharp(originalImage)
@@ -93,7 +96,10 @@ const main = async () => {
 
   console.log(JSON.stringify(data, null, 2));
 
-  fs.writeFileSync(path.resolve(__dirname, `${OUTPUT_DIR}/data.json`), JSON.stringify(data, null, 2));
+  fs.writeFileSync(
+    path.resolve(__dirname, `${OUTPUT_DIR}/data.json`),
+    JSON.stringify(data, null, 2)
+  );
 };
 
 main();
