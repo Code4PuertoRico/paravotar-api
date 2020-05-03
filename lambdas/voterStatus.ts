@@ -15,6 +15,7 @@ const precintsFile = "precints.json";
 const countiesFile = "counties.json";
 const papeletasFile = "papeletas.json";
 
+const folder = "/papeletas/2016";
 
 const handler = async (event: any) => {
   try {
@@ -90,13 +91,25 @@ const handler = async (event: any) => {
 
     const p = _.get(precintos, data.precinto, null);
 
+    let legislativo = p.papeleta.split('/');
+
+    legislativo = `${folder}/${_.lowerCase(decodeURIComponent(legislativo[legislativo.length - 1].split('.').slice(0, -1).join('.'))).split(' ').join('-')}`;
+
+    let municipal = counties[_.camelCase(p.pueblo)].split('/');
+
+    municipal = `${folder}/${_.lowerCase(decodeURIComponent(municipal[municipal.length - 1].split('.').slice(0, -1).join('.'))).split(' ').join('-')}`;
+
+    let estatal = papeletas[0].papeletaLink.split('/');
+
+    estatal = `${folder}/${_.lowerCase(decodeURIComponent(estatal[estatal.length - 1].split('.').slice(0, -1).join('.'))).split(' ').join('-')}`;
+
     const payload = {
       ...data,
       pueblo: p.pueblo,
       papeletas: {
-        legislativo: p.papeleta,
-        municipal: counties[_.camelCase(p.pueblo)],
-        estatal: papeletas[0].papeletaLink
+        legislativo,
+        municipal,
+        estatal,
       }
     };
 
