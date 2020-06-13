@@ -76,6 +76,16 @@ functions:
       - http:
           path: /voterStatus
           method: get
+  consulta:
+    handler: voterStatus.consulta
+    memorySize: 1536MB
+    timeout: 30
+    environment:
+      DEBUG: true
+    events:
+      - http:
+          path: /consulta
+          method: get
 #    The following are a few example events you can configure
 #    NOTE: Please make sure to change your handler code to work with those events
 #    Check the event documentation for details
