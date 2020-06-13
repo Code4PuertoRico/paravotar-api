@@ -12,7 +12,11 @@ export const getOCRText = (
 ) => {
   const form = new FormData();
 
-  form.append('file', fs.readFileSync(path.resolve(__dirname, filename)), 'slice.jpg');
+  form.append(
+    'file',
+    fs.readFileSync(path.resolve(__dirname, filename)),
+    'slice.jpg'
+  );
   form.append('language', language);
   form.append('isOverlayRequired', `${overlay}`);
 
