@@ -3,7 +3,7 @@ import fs from 'fs';
 import sharp from 'sharp';
 import { getOCRText } from './ocr';
 import { USE_OCR } from './settings';
-import { config } from './config/legislativa-adjuntas';
+import { config } from './config/patillas-municipal';
 
 const originalImage = path.resolve(__dirname, config.filePath);
 
