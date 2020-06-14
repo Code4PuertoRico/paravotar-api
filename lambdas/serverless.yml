@@ -23,6 +23,11 @@ service: scrape-lambda
 provider:
   name: aws
   runtime: nodejs12.x
+  iamRoleStatements:
+    - Effect: 'Allow'
+      Action:
+        - 's3:GetObject'
+      Resource: "arn:aws:s3:::paravotar/*"
 
 plugins:
   - serverless-webpack

@@ -188,6 +188,7 @@ const getConsulta = async (event: any) => {
       __EVENTVALIDATION:
         "/wEdAARI4r8pLoWjAaafYdmWTMsvl9GE8278cv5ov9KdHyz433R5BDbtDklKFpN5EFaQZ2XKDGwmTBj5Fh/jxJBlxFQPFq8A93fTSOdMKdXLd4aI92UDT4CMtaw0TGJ2frZ61L4=",
       txtNumElectoral: voterId,
+      btnConsulta: "Efectuar Consulta",
     };
 
     const resp = await axios({
@@ -195,7 +196,7 @@ const getConsulta = async (event: any) => {
       url: "http://consulta.ceepur.org",
       data: qs.stringify(formURLFields),
       headers: {
-        "content-type": "application/x-www-form-urlencoded;charset=utf-8",
+        "Content-Type": "application/x-www-form-urlencoded;charset=utf-8",
       },
     });
 
