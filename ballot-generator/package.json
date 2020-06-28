@@ -41,6 +41,7 @@
   "dependencies": {
     "@types/puppeteer": "^3.0.0",
     "aws-sdk": "^2.706.0",
+    "dotenv": "^8.2.0",
     "puppeteer": "^4.0.1"
   }
 }
