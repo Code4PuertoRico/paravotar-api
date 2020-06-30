@@ -179,16 +179,27 @@ const getConsulta = async (event: any) => {
     }
 
     const formURLFields = {
-      __LASTFOCUS: "",
       __EVENTTARGET: "",
       __EVENTARGUMENT: "",
       __VIEWSTATE:
-        "/wEPDwUKLTc2MTgyNzkwOQ9kFgICAw9kFhgCAQ8WBB4HVmlzaWJsZWgeCWlubmVyaHRtbGVkAgkPDxYCHgRUZXh0BQc2MjgwMTI3ZGQCCw8PFgIfAgUDMDkxZGQCDQ8PFgIfAgUCMTdkZAIPDw8WAh8CBQIwMGRkAhEPDxYCHwIFATBkZAITDw8WAh8CBQEwZGQCFQ8PFgIfAgUGQWN0aXZvZGQCFw8PFgIfAgUKMTk5My0xMi0wNmRkAhkPDxYCHwIFIkFOVElHVUEgRVNDLiBUT03DgVMgVkVSQSBBWUFMQSAoQylkZAIbDw8WAh8CBTJDYWxlIFZpc3RhIEFsZWdyZQ0KU2VjdG9yIFJlY2lvDQpCby4gR3VhcmRhcnJheWENCmRkAh0PFgIeBXN0eWxlBRN2aXNpYmlsaXR5OnZpc2libGU7ZGQDx2mFW2+8WtZoHhPK5YX0xDjvIYo3+Ig0oxmnJtYyfA==",
+        "j8e9Ob/a0bGuyuMpEyF8NXnyvV13igDM7a2M5Kq0eXZZ7GF2wZHN66rB9tUtHjzluJd29d5Nx/Q8xPSonfTaxJZ4Xc72qbuiuhDF9pZcxtHC0SomzwyVFIxd/SNz/YKx",
       __VIEWSTATEGENERATOR: "D331ABD5",
       __EVENTVALIDATION:
-        "/wEdAARI4r8pLoWjAaafYdmWTMsvl9GE8278cv5ov9KdHyz433R5BDbtDklKFpN5EFaQZ2XKDGwmTBj5Fh/jxJBlxFQPFq8A93fTSOdMKdXLd4aI92UDT4CMtaw0TGJ2frZ61L4=",
+        "IcbJ6MBc2CH2sWiUW2edrQ5IKWiYYHDIPAMPZZZteP2OdYiVeH40S/UQTGXAG6mYxZol/GsBtqkeOKXVYFsY4xg7BUJjk31QN0/1HQwJUeHH7t+fRYXZKjWOFWelJO4h56mtJS4js8c80KnMY/eZomzavt+J4bWW4Q7HJagvkOwge/E/yjogoPO3xeh2yX8R/5H6A71WMzY1Y+ICAT2t3jfJWum3jOpWY0a/I7ZMDs9flYk/07f4kpNd/J00/Wo5SPEmATld062Jde3jleuKLfadz1oMXKvZG0yLcrFUnBgIs6sDhhuLgCaHCzUiJ2HtlpGnZr4dJL0jgvCJS2szA78BzGKn2xZaEOjfTxIEWo2ZXUohXJg9ACUqy+/qQQg3wQg4lcmkBVlvKC+GK7wy5g==",
       txtNumElectoral: voterId,
-      btnConsulta: "Efectuar Consulta",
+      btnConsulta: "Buscar",
+      txtNumeroElectoral: "",
+      txtFechaNacimiento: "",
+      txtNombreEvento: "",
+      txtFechaEvento: "",
+      txtPrecinto: "",
+      txtUnidad: "",
+      txtColegio: "",
+      txtEstatus: "",
+      txtPagina: "",
+      txtLinea: "",
+      txtCentro: "",
+      txtDireccion: "",
     };
 
     const resp = await axios({
@@ -204,17 +215,15 @@ const getConsulta = async (event: any) => {
 
     const data = {
       numeroElectoral: voterId,
-      precinto: root.querySelector("#lblPrecinto").text,
-      unidad: root.querySelector("#lblUnidad").text,
-      colegio: root.querySelector("#lblColegio").text,
-      pagina: root.querySelector("#lblPagina").text,
-      linea: root.querySelector("#lblLinea").text,
-      estatus: root.querySelector("#lblStatus").text,
-      fechaDeNacimiento: root.querySelector("#lblFechaNac")
-        .text,
-      centroDeVotacion: root.querySelector("#lblCentro")
-        .text,
-      direccion: root.querySelector("#lblDir").text,
+      precinto: _.padStart(root.querySelector("#txtPrecinto").rawAttributes.value, 3, '0'),
+      unidad: root.querySelector("#txtUnidad").rawAttributes.value,
+      colegio: root.querySelector("#txtColegio").rawAttributes.value,
+      pagina: root.querySelector("#txtPagina").rawAttributes.value,
+      linea: root.querySelector("#txtLinea").rawAttributes.value,
+      estatus: root.querySelector("#txtEstatus").rawAttributes.value,
+      fechaDeNacimiento: root.querySelector("#txtFechaNacimiento").rawAttributes.value,
+      centroDeVotacion: root.querySelector("#txtCentro").rawAttributes.value,
+      direccion: root.querySelector("#txtDireccion").text,
     };
 
     const precintos = JSON.parse(
