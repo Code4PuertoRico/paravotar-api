@@ -1,5 +1,3 @@
-import fs from 'fs';
-
 import dotenv from 'dotenv';
 import AWS from 'aws-sdk';
 
@@ -15,14 +13,15 @@ const BUCKET_NAME = 'ballots';
 // 3 minutes of ttl.
 const TTL_IN_MS = 3 * 60 * 1000;
 
-export default function uploadBallot(uuid: string) {
+type UploadBallotsParams = {uuid: string, pdf: Buffer};
+
+export default function uploadBallot({uuid, pdf}: UploadBallotsParams) {
   let now = Date.now();
   let expiresIn = now + TTL_IN_MS;
-  let ballot = fs.readFileSync(`./static/${uuid}.pdf`);
   let uploadConfig = {
     Bucket: BUCKET_NAME,
     Key: `${uuid}.pdf`,
-    Body: ballot,
+    Body: pdf,
     Expires: new Date(expiresIn),
   };
 

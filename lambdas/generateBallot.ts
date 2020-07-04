@@ -3,6 +3,9 @@ import cors from "@middy/http-cors";
 // import doNotWaitForEmptyEventLoop from "@middy/do-not-wait-for-empty-event-loop";
 import httpErrorHandler from "@middy/http-error-handler";
 
+import generateBallotPdf from './ballot-generator/generate-ballot-pdf';
+import uploadBallot from './ballot-generator/upload-ballot';
+
 import _ from "lodash";
 import AWS from "aws-sdk";
 import dotenv from 'dotenv';
@@ -16,12 +19,12 @@ const SQS = new AWS.SQS({
   region: process.env.PV_AWS_REGION,
 });
 
-async function createTask(id: string, votes: string) {
+async function createTask(uuid: string, votes: string) {
   return new Promise((resolve, reject) => {
     SQS.sendMessage({
-      MessageBody: JSON.stringify({ id, votes }),
+      MessageBody: JSON.stringify({ uuid, votes }),
       // TODO: Change for real queue url
-      QueueUrl: 'https://sqs.us-east-1.amazonaws.com/952144174923/ballots-generator'
+      QueueUrl: 'https://sqs.us-east-1.amazonaws.com/952144174923/GenerateBallotQueue'
     }, (err, data) => {
       if (err) {
         return reject(err);
@@ -44,13 +47,14 @@ const createBallotGenerationTask = async (event: any) => {
       };
     }
 
-    const taskId = nanoid();
-    const payload = {
-      taskId
-    }
+    const uuid = nanoid();
 
     // Create SQS task.
-    await createTask(taskId, votes);
+    await createTask(uuid, votes);
+
+    const payload = {
+      uuid
+    }
 
     return {
       statusCode: 200,
@@ -68,3 +72,20 @@ const createBallotGenerationTask = async (event: any) => {
 export const createBallotTask = middy(createBallotGenerationTask)
   .use(cors())
   .use(httpErrorHandler());
+
+async function generatePdf(event, context) {
+  const record = event.Records[0];
+  const body = JSON.parse(_.get(record, 'body', {}));
+  const uuid = _.get(body, "uuid", null);
+  const votes = _.get(body, "votes", null);
+
+  const pdf = await generateBallotPdf(votes);
+  const url = await uploadBallot({uuid, pdf});
+
+  console.log({ url })
+
+  context.done(null, '');
+}
+
+export const generatePdfHandler = generatePdf
+
