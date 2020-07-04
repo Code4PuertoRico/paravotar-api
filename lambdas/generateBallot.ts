@@ -5,16 +5,23 @@ import httpErrorHandler from "@middy/http-error-handler";
 
 import _ from "lodash";
 import AWS from "aws-sdk";
+import dotenv from 'dotenv';
 import {nanoid} from 'nanoid';
 
-const SQS = new AWS.SQS();
+dotenv.config();
+
+const SQS = new AWS.SQS({
+  accessKeyId: process.env.PV_AWS_ACCESS_KEY,
+  secretAccessKey: process.env.PV_AWS_SECRET_KEY,
+  region: process.env.PV_AWS_REGION,
+});
 
 async function createTask(id: string, votes: string) {
   return new Promise((resolve, reject) => {
     SQS.sendMessage({
       MessageBody: JSON.stringify({ id, votes }),
-      // TODO: Create SQS task in AWS.
-      QueueUrl: ''
+      // TODO: Change for real queue url
+      QueueUrl: 'https://sqs.us-east-1.amazonaws.com/952144174923/ballots-generator'
     }, (err, data) => {
       if (err) {
         return reject(err);
@@ -24,7 +31,6 @@ async function createTask(id: string, votes: string) {
     })
   })
 }
-
 
 const createBallotGenerationTask = async (event: any) => {
   try {

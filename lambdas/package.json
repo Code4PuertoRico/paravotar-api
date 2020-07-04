@@ -11,6 +11,7 @@
     "aws-sdk": "^2.668.0",
     "axios": "^0.19.2",
     "chrome-aws-lambda": "^2.1.1",
+    "dotenv": "^8.2.0",
     "lodash": "^4.17.15",
     "nanoid": "^3.1.10",
     "node-html-parser": "^1.2.19",
@@ -32,6 +33,7 @@
     "@types/qs": "^6.9.3",
     "babel-loader": "^8.0.6",
     "puppeteer": "1.19.0",
+    "serverless-dotenv-plugin": "^2.4.2",
     "webpack": "^4.39.1",
     "webpack-node-externals": "^1.7.2"
   },
