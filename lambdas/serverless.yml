@@ -114,6 +114,13 @@ functions:
           arn: arn:aws:sqs:us-east-1:952144174923:GenerateBallotQueue
           batchSize: 1
 
+  cleanUpPdf:
+    handler: generateBallot.cleanUpPdfHandler
+    events:
+      - sqs:
+          arn: arn:aws:sqs:us-east-1:952144174923:BallotCleanUpQueue
+          batchSize: 1
+
 
 #    Define function environment variables here
 #    environment:

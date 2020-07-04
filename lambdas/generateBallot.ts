@@ -10,8 +10,15 @@ import _ from "lodash";
 import AWS from "aws-sdk";
 import dotenv from 'dotenv';
 import {nanoid} from 'nanoid';
+import schedulePdfCleanUp from "./ballot-generator/schedule-pdf-clean-up";
 
 dotenv.config();
+
+const S3 = new AWS.S3({
+  accessKeyId: process.env.PV_AWS_ACCESS_KEY,
+  secretAccessKey: process.env.PV_AWS_SECRET_KEY,
+  region: process.env.PV_AWS_REGION,
+});
 
 const SQS = new AWS.SQS({
   accessKeyId: process.env.PV_AWS_ACCESS_KEY,
@@ -81,11 +88,39 @@ async function generatePdf(event, context) {
 
   const pdf = await generateBallotPdf(votes);
   const url = await uploadBallot({uuid, pdf});
+  await schedulePdfCleanUp(uuid);
 
   console.log({ url })
 
-  context.done(null, '');
+  context.done(null);
 }
 
 export const generatePdfHandler = generatePdf
+
+async function deletePdf(uuid: string) {
+  return new Promise((resolve, reject) => {
+    S3.deleteObject({
+      Bucket: 'ballots',
+      Key: `${uuid}.pdf`
+    }, (err) => {
+      if (err) {
+        return reject(err)
+      }
+
+      return resolve();
+    })
+  })
+}
+
+async function cleanUpPdf(event, context) {
+  const record = event.Records[0];
+  const body = JSON.parse(_.get(record, 'body', {}));
+  const uuid = _.get(body, "uuid", null);
+
+  await deletePdf(uuid);
+
+  context.done(null);
+}
+
+export const cleanUpPdfHandler = cleanUpPdf;
 
