@@ -1,13 +1,8 @@
-import dotenv from 'dotenv';
-import AWS from 'aws-sdk';
+import AWS from 'aws-sdk'
 
-dotenv.config();
+import config from '../lib/aws';
 
-const SQS = new AWS.SQS({
-  accessKeyId: process.env.PV_AWS_ACCESS_KEY,
-  secretAccessKey: process.env.PV_AWS_SECRET_KEY,
-  region: process.env.PV_AWS_REGION,
-})
+const SQS = new AWS.SQS(config)
 
 export default async function schedulePdfCleanUp(uuid: string) {
   return new Promise((resolve, reject) => {

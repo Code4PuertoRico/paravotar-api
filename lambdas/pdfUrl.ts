@@ -4,22 +4,18 @@ import httpErrorHandler from "@middy/http-error-handler";
 
 import _ from "lodash";
 import AWS from "aws-sdk";
-import dotenv from 'dotenv';
 
-dotenv.config();
+import config from './lib/aws';
+import { BUCKET_NAME } from "./constants";
 
-const S3 = new AWS.S3({
-  accessKeyId: process.env.PV_AWS_ACCESS_KEY,
-  secretAccessKey: process.env.PV_AWS_SECRET_KEY,
-  region: process.env.PV_AWS_REGION,
-});
+const S3 = new AWS.S3(config);
 
 function getSignedUrl(uuid: string) {
   return new Promise((resolve, reject) => {
     S3.getSignedUrl(
       'getObject',
       {
-        Bucket: 'ballots',
+        Bucket: BUCKET_NAME,
         Key: `${uuid}.pdf`,
         Expires: 180,
       },

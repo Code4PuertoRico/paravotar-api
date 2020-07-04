@@ -3,28 +3,18 @@ import cors from "@middy/http-cors";
 // import doNotWaitForEmptyEventLoop from "@middy/do-not-wait-for-empty-event-loop";
 import httpErrorHandler from "@middy/http-error-handler";
 
-import generateBallotPdf from './ballot-generator/generate-ballot-pdf';
-import uploadBallot from './ballot-generator/upload-ballot';
-
 import _ from "lodash";
 import AWS from "aws-sdk";
-import dotenv from 'dotenv';
 import {nanoid} from 'nanoid';
+
+import config from './lib/aws';
 import schedulePdfCleanUp from "./ballot-generator/schedule-pdf-clean-up";
+import generateBallotPdf from './ballot-generator/generate-ballot-pdf';
+import uploadBallot from './ballot-generator/upload-ballot';
+import { BUCKET_NAME } from "./constants";
 
-dotenv.config();
-
-const S3 = new AWS.S3({
-  accessKeyId: process.env.PV_AWS_ACCESS_KEY,
-  secretAccessKey: process.env.PV_AWS_SECRET_KEY,
-  region: process.env.PV_AWS_REGION,
-});
-
-const SQS = new AWS.SQS({
-  accessKeyId: process.env.PV_AWS_ACCESS_KEY,
-  secretAccessKey: process.env.PV_AWS_SECRET_KEY,
-  region: process.env.PV_AWS_REGION,
-});
+const S3 = new AWS.S3(config);
+const SQS = new AWS.SQS(config)
 
 async function createTask(uuid: string, votes: string) {
   return new Promise((resolve, reject) => {
@@ -46,6 +36,8 @@ const createBallotGenerationTask = async (event: any) => {
   try {
     const reqBody = JSON.parse(_.get(event, 'body', null));
     const votes = _.get(reqBody, "votes", null);
+
+    console.log(AWS.config);
 
     if (!votes) {
       return {
@@ -100,7 +92,7 @@ export const generatePdfHandler = generatePdf
 async function deletePdf(uuid: string) {
   return new Promise((resolve, reject) => {
     S3.deleteObject({
-      Bucket: 'ballots',
+      Bucket: BUCKET_NAME,
       Key: `${uuid}.pdf`
     }, (err) => {
       if (err) {

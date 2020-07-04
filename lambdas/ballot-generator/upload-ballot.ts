@@ -1,15 +1,10 @@
-import dotenv from 'dotenv';
 import AWS from 'aws-sdk';
 
-dotenv.config();
+import { BUCKET_NAME } from "../constants";
+import config from '../lib/aws';
 
-const S3 = new AWS.S3({
-  accessKeyId: process.env.PV_AWS_ACCESS_KEY,
-  secretAccessKey: process.env.PV_AWS_SECRET_KEY,
-  region: process.env.PV_AWS_REGION,
-});
+const S3 = new AWS.S3(config)
 
-const BUCKET_NAME = 'ballots';
 // 3 minutes of ttl.
 const TTL_IN_MS = 3 * 60 * 1000;
 
