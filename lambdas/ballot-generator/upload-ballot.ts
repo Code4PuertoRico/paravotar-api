@@ -31,21 +31,7 @@ export default function uploadBallot({uuid, pdf}: UploadBallotsParams) {
         return reject(err);
       }
 
-      S3.getSignedUrl(
-        'getObject',
-        {
-          Bucket: BUCKET_NAME,
-          Key: `${uuid}.pdf`,
-          Expires: 180,
-        },
-        (err, signedData) => {
-          if (err) {
-            return reject(err);
-          }
-
-          return resolve(signedData);
-        }
-      );
+      resolve();
     });
   });
 }

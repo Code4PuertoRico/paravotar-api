@@ -107,6 +107,17 @@ functions:
           path: /createBallotTask
           method: post
 
+  getPdfUrl:
+    handler: pdfUrl.getPdfUrlHandler
+    memorySize: 1536MB
+    timeout: 30
+    environment:
+      DEBUG: true
+    events:
+      - http:
+          path: /getPdfUrl
+          method: get
+
   generatePdf:
     handler: generateBallot.generatePdfHandler
     events:
