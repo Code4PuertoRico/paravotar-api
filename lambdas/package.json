@@ -11,7 +11,7 @@
     "aws-sdk": "^2.668.0",
     "axios": "^0.19.2",
     "chrome-aws-lambda": "^2.1.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "node-html-parser": "^1.2.19",
     "puppeteer-core": "^2.1.1",
     "qs": "^6.9.4",
