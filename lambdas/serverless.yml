@@ -71,6 +71,12 @@ package:
     - node_modules/puppeteer/.local-chromium/**
 
 functions:
+  createCalendarEvent:
+    handler: calendar.createEvent
+    events:
+      - http:
+          path: /calendarEvent
+          method: post
   getVoterStatus:
     handler: voterStatus.getVoterStatus
     memorySize: 1536MB
