@@ -1,5 +1,5 @@
 export const config = {
-  filePath: '../static/2020/001_San Juan_LEGISLATIVA_17-1.jpg',
+  filePath: '../static/2020/002_San Juan_LEGISLATIVA_17-1.jpg',
   N_COLUMNS: 6,
   CELL_WIDTH: 385,
   STARTING_X: 195,
@@ -27,7 +27,7 @@ export const config = {
       MAIN_TOP: 430,
       MAIN_HEIGHT: 60,
       hasLogos: true,
-      N_LOGO: 4,
+      N_LOGO: 6,
       LOGO_TOP: 430,
       LOGO_HEIGHT: 60,
       LOGO_LEFT_DELTA: 120,

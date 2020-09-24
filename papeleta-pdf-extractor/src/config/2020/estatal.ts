@@ -1,6 +1,6 @@
 export const config = {
   filePath: '../static/2020/_ESTATAL_17-1.jpg',
-  N_COLUMNS: 7,
+  N_COLUMNS: 6,
   CELL_WIDTH: 385,
   STARTING_X: 195,
   PERCENTAGE_DELTA: 0.01,
@@ -10,7 +10,7 @@ export const config = {
       MAIN_TOP: 115,
       MAIN_HEIGHT: 245,
       hasLogos: true,
-      N_LOGO: 4,
+      N_LOGO: 5,
       LOGO_TOP: 125,
       LOGO_HEIGHT: 100,
       LOGO_LEFT_DELTA: 130,
