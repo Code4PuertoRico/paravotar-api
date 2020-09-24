@@ -1,0 +1,404 @@
+[
+  [
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/1-partido-img-1.jpg",
+      "ocrResult": "PARTIDO NUEVO PROGRESISTA\r\n",
+      "logoImg": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/1-partido-logo-1.jpg"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/1-partido-img-2.jpg",
+      "ocrResult": "PARTIDO POPULAR\r\nDEMOCRÁTICO\r\n",
+      "logoImg": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/1-partido-logo-2.jpg"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/1-partido-img-3.jpg",
+      "ocrResult": "PATRIA NUEVA\r\nPARTIDO INDEPENDENTISTA\r\nPUERTORRIQUEÑO\r\n",
+      "logoImg": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/1-partido-logo-3.jpg"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/1-partido-img-4.jpg",
+      "ocrResult": "MOVIMIENTO VICTORIA\r\nCIUDADANA\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/1-partido-img-5.jpg",
+      "ocrResult": "GNIDA\r\nPROYECTO DIGNIDAD\r\n"
+    }
+  ],
+  [
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/2-alcalde-titular-img-1.jpg",
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/2-alcalde-titular-img-2.jpg",
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/2-alcalde-titular-img-3.jpg",
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/2-alcalde-titular-img-4.jpg",
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/2-alcalde-titular-img-5.jpg",
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    }
+  ],
+  [
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/3-alcalde-img-1.jpg",
+      "ocrResult": "Miguel Romero\r\n",
+      "logoImg": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/3-alcalde-logo-1.jpg"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/3-alcalde-img-2.jpg",
+      "ocrResult": "Rossana López León\r\n",
+      "logoImg": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/3-alcalde-logo-2.jpg"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/3-alcalde-img-3.jpg",
+      "ocrResult": "Adrián González Costa\r\n",
+      "logoImg": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/3-alcalde-logo-3.jpg"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/3-alcalde-img-4.jpg",
+      "ocrResult": "Manuel Natal Albelo\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/3-alcalde-img-5.jpg",
+      "ocrResult": "Nelson Rosario\r\nRodríguez\r\n"
+    }
+  ],
+  [
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/4-legisladores-titular-img-1.jpg",
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/4-legisladores-titular-img-2.jpg",
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/4-legisladores-titular-img-3.jpg",
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/4-legisladores-titular-img-4.jpg",
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLA TOR\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/4-legisladores-titular-img-5.jpg",
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLA TOR\r\n"
+    }
+  ],
+  [
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-1-img-1.jpg",
+      "ocrResult": "Gloria I Escudero\r\nMorales\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-1-img-2.jpg",
+      "ocrResult": "1.\r\nMargarita Ostolaza Bey\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-1-img-3.jpg",
+      "ocrResult": "Carlos A. Frontera\r\nSantana\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-1-img-4.jpg",
+      "ocrResult": "1.\r\nAngiemille Latorre\r\nNieves\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-1-img-5.jpg",
+      "ocrResult": "1.\r\nAdria Vilaró López\r\n"
+    }
+  ],
+  [
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-2-img-1.jpg",
+      "ocrResult": "Camille Andrea García\r\n2.\r\nVillafañe\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-2-img-2.jpg",
+      "ocrResult": "2.\r\nJosé E. Rosario Cruz\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-2-img-3.jpg",
+      "ocrResult": "Ana María Alvarez\r\n2.\r\nRodríguez\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-2-img-4.jpg",
+      "ocrResult": "2.\r\nNorma Devarie Díaz\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-2-img-5.jpg",
+      "ocrResult": "2.\r\nJosé T. Marrero Basso\r\n"
+    }
+  ],
+  [
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-3-img-1.jpg",
+      "ocrResult": "3.\r\nAda (Taty) Clemente\r\nGonzález\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-3-img-2.jpg",
+      "ocrResult": "Weldin Fernando Ortiz\r\n3.\r\nFranco\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-3-img-3.jpg",
+      "ocrResult": "Carlos Aner Navarro\r\n3.\r\nCarrasquillo\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-3-img-4.jpg",
+      "ocrResult": "Maritza Ramírez\r\n3.\r\nIrizarry\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-3-img-5.jpg",
+      "ocrResult": "3.\r\nJames P. Conlan\r\n"
+    }
+  ],
+  [
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-4-img-1.jpg",
+      "ocrResult": "4.\r\nDiego G García Cruz\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-4-img-2.jpg",
+      "ocrResult": "4.\r\nAnibal Rodríguez\r\nSantos\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-4-img-3.jpg",
+      "ocrResult": "Antonio Juan\r\n4.\r\nBennazar Nin\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-4-img-4.jpg",
+      "ocrResult": "Nayda Bobonis\r\n4.\r\nCabrera\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-4-img-5.jpg",
+      "ocrResult": "Margarita Cordero\r\n4.\r\nColón\r\n"
+    }
+  ],
+  [
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-5-img-1.jpg",
+      "ocrResult": "José (Cheito)\r\n5.\r\nHernández Concepción\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-5-img-2.jpg",
+      "ocrResult": "5.\r\nJosé R. Ocasio García\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-5-img-3.jpg",
+      "ocrResult": "Miriam Álvarez\r\n5.\r\nRodríguez\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-5-img-4.jpg",
+      "ocrResult": "5.\r\nJackie García Flores\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-5-img-5.jpg",
+      "ocrResult": "Javier Meléndez\r\n5.\r\nPineda\r\n"
+    }
+  ],
+  [
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-6-img-1.jpg",
+      "ocrResult": "Ernesto (Tito) Torres\r\n6.\r\nArroyo\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-6-img-2.jpg",
+      "ocrResult": "6.\r\nIvonne Álvarez Vélez\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-6-img-3.jpg",
+      "ocrResult": "José E. (Manuela)\r\n6.\r\nGarcía Oquendo\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-6-img-4.jpg",
+      "ocrResult": "6.\r\nSolymar Ruiz Márquez\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-6-img-5.jpg",
+      "ocrResult": "6.\r\nEdgardo Angleró Ortiz\r\n"
+    }
+  ],
+  [
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-7-img-1.jpg",
+      "ocrResult": "Alba (Albita) Rivera\r\n7.\r\nRamírez\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-7-img-2.jpg",
+      "ocrResult": "7.\r\nIsrael Alicea Del Valle\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-7-img-3.jpg",
+      "ocrResult": "7.\r\nKaren Lee Ayala\r\nVázquez\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-7-img-4.jpg",
+      "ocrResult": "Eileen Domenech\r\n7.\r\nRodríguez\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-7-img-5.jpg",
+      "ocrResult": "7.\r\nZulma Grillasca Berly\r\n"
+    }
+  ],
+  [
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-8-img-1.jpg",
+      "ocrResult": "8.\r\nNitza Suárez\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-8-img-2.jpg",
+      "ocrResult": "8.\r\nCarlos Sánchez Castro\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-8-img-3.jpg",
+      "ocrResult": "Angélica Andrea\r\n8.\r\nQuestell Ortiz\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-8-img-4.jpg",
+      "ocrResult": "Mari Laura Rohena\r\n8.\r\nCruz\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-8-img-5.jpg",
+      "ocrResult": "8.\r\nJannette Suazo Castro\r\n"
+    }
+  ],
+  [
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-9-img-1.jpg",
+      "ocrResult": "Carmen Ana Culpeper\r\n9.\r\nRamírez\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-9-img-2.jpg",
+      "ocrResult": "9.\r\nIris Muñiz\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-9-img-3.jpg",
+      "ocrResult": "Génesis Contreras\r\n9.\r\nRodríguez\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-9-img-4.jpg",
+      "ocrResult": "9.\r\nSusana Montero\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-9-img-5.jpg",
+      "ocrResult": "Ramón E Pardo\r\n9.\r\nCuesta\r\n"
+    }
+  ],
+  [
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-10-img-1.jpg",
+      "ocrResult": "| 10.\r\nLuis A Crespo\r\nF' ueroa\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-10-img-2.jpg",
+      "ocrResult": "Antonio Rafael\r\n10.\r\nSalcedo Ramis\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-10-img-3.jpg",
+      "ocrResult": "10.\r\nNilda E. Frontera\r\nSantana\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-10-img-4.jpg",
+      "ocrResult": "10.\r\nJoselo Correa Villegas\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-10-img-5.jpg",
+      "ocrResult": "Luz Palmira Burgos\r\n10.\r\nVázquez\r\n"
+    }
+  ],
+  [
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-11-img-1.jpg",
+      "ocrResult": "Carlos Ramón\r\n11.\r\nAcevedo Acevedo\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-11-img-2.jpg",
+      "ocrResult": "11.\r\nElizabeth Ríos\r\nRamirez\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-11-img-3.jpg",
+      "ocrResult": "11.\r\nDaniel Márquez García\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-11-img-4.jpg",
+      "ocrResult": "11.\r\nJoel Vázquez Rosario\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-11-img-5.jpg",
+      "ocrResult": "11.\r\nLuisa Burgos Vázquez\r\n"
+    }
+  ],
+  [
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-12-img-1.jpg",
+      "ocrResult": "Alberto J Giménez\r\n12.\r\nCruz\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-12-img-2.jpg",
+      "ocrResult": "Lourdes M. Morán\r\n12.\r\nOjeda\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-12-img-3.jpg",
+      "ocrResult": "12.\r\nMelvin Negrón Blanco\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-12-img-4.jpg",
+      "ocrResult": "Jean Carlos (Janky)\r\n12.\r\nCurbelo\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-12-img-5.jpg",
+      "ocrResult": "12.\r\nRafael Ruiz González\r\n"
+    }
+  ],
+  [
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-13-img-1.jpg",
+      "ocrResult": "Ángela (Meyer)\r\n13.\r\nMaurano Debén\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-13-img-2.jpg",
+      "ocrResult": "Ricardo Rodríguez\r\n13.\r\nMartínez\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-13-img-3.jpg",
+      "ocrResult": "13.\r\nEileen Medina Ocasio\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-13-img-4.jpg",
+      "ocrResult": "13.\r\nCamilo Punsoda\r\nRodríguez\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-13-img-5.jpg",
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-14-img-1.jpg",
+      "ocrResult": "14.\r\nPastor Moisés\r\nCarra uillo\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-14-img-2.jpg",
+      "ocrResult": "14.\r\nMaría Clotilde Dacosta\r\n_&latías\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-14-img-3.jpg",
+      "ocrResult": "14.\r\nPaul A. Lippert\r\nFi ueroa\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-14-img-4.jpg",
+      "ocrResult": "14.\r\nMichael Taulé Pulido\r\n"
+    },
+    {
+      "img": "/Users/jpadilla/Desktop/paravotar-api/papeleta-pdf-extractor/output/5-legisladores-14-img-5.jpg",
+      "ocrResult": ""
+    }
+  ]
+]
