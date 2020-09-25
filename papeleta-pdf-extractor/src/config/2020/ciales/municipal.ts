@@ -1,6 +1,6 @@
 export const config = {
-  filePath: '../static/municipal/018_Vega Baja_MUNICIPAL_14-1.jpg',
-  N_COLUMNS: 5,
+  filePath: '../static/municipal/023_Ciales_MUNICIPAL_14-1.jpg',
+  N_COLUMNS: 6,
   CELL_WIDTH: 385,
   STARTING_X: 195,
   PERCENTAGE_DELTA: 0.01,
@@ -90,30 +90,6 @@ export const config = {
     {
       IMAGE_NAME_PREFIX: '5-legisladores-9',
       MAIN_TOP: 1060,
-      MAIN_HEIGHT: 60,
-      hasLogos: false,
-    },
-    {
-      IMAGE_NAME_PREFIX: '5-legisladores-10',
-      MAIN_TOP: 1120,
-      MAIN_HEIGHT: 60,
-      hasLogos: false,
-    },
-    {
-      IMAGE_NAME_PREFIX: '5-legisladores-11',
-      MAIN_TOP: 1185,
-      MAIN_HEIGHT: 60,
-      hasLogos: false,
-    },
-    {
-      IMAGE_NAME_PREFIX: '5-legisladores-12',
-      MAIN_TOP: 1250,
-      MAIN_HEIGHT: 60,
-      hasLogos: false,
-    },
-    {
-      IMAGE_NAME_PREFIX: '5-legisladores-13',
-      MAIN_TOP: 1310,
       MAIN_HEIGHT: 60,
       hasLogos: false,
     },

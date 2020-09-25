@@ -1,5 +1,5 @@
 export const config = {
-  filePath: '../static/municipal/018_Vega Baja_MUNICIPAL_14-1.jpg',
+  filePath: '../static/municipal/021_Manati_MUNICIPAL_14-1.jpg',
   N_COLUMNS: 5,
   CELL_WIDTH: 385,
   STARTING_X: 195,

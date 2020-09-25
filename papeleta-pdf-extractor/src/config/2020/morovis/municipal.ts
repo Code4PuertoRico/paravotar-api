@@ -1,5 +1,5 @@
 export const config = {
-  filePath: '../static/municipal/018_Vega Baja_MUNICIPAL_14-1.jpg',
+  filePath: '../static/municipal/020_Morovis_MUNICIPAL_11-1.jpg',
   N_COLUMNS: 5,
   CELL_WIDTH: 385,
   STARTING_X: 195,
@@ -102,18 +102,6 @@ export const config = {
     {
       IMAGE_NAME_PREFIX: '5-legisladores-11',
       MAIN_TOP: 1185,
-      MAIN_HEIGHT: 60,
-      hasLogos: false,
-    },
-    {
-      IMAGE_NAME_PREFIX: '5-legisladores-12',
-      MAIN_TOP: 1250,
-      MAIN_HEIGHT: 60,
-      hasLogos: false,
-    },
-    {
-      IMAGE_NAME_PREFIX: '5-legisladores-13',
-      MAIN_TOP: 1310,
       MAIN_HEIGHT: 60,
       hasLogos: false,
     },
