@@ -3,7 +3,7 @@ import fs from 'fs';
 import sharp from 'sharp';
 import { getOCRText } from './ocr';
 import { USE_OCR } from './settings';
-import { config } from './config/2020/vega-alta/016-legislativa';
+import { config } from './config/2020/vega-baja/municipal';
 
 const originalImage = path.resolve(__dirname, config.filePath);
 
@@ -59,6 +59,8 @@ const main = async () => {
 
       if (USE_OCR) {
         const resp = await getOCRText(slicedImagePath);
+
+        console.log(resp.ParsedResults);
 
         const ocrText = resp.ParsedResults[0].ParsedText;
 
