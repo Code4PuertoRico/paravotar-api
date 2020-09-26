@@ -3,7 +3,7 @@ import fs from 'fs';
 import sharp from 'sharp';
 import { getOCRText } from './ocr';
 import { USE_OCR } from './settings';
-import { config } from './config/2020/moca/036-legislativa';
+import { config } from './config/2020/cidra/076-legislativa';
 
 const originalImage = path.resolve(__dirname, config.filePath);
 
