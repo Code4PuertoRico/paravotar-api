@@ -4,7 +4,7 @@ import sharp from 'sharp';
 import { getOCRText } from './ocr';
 import { USE_OCR } from './settings';
 
-import { config } from './config/2020/maricao/municipal';
+import { config } from './config/2020/cidra/municipal';
 
 const originalImage = path.resolve(__dirname, config.filePath);
 
