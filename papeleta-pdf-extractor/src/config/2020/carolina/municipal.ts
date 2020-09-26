@@ -1,5 +1,5 @@
 export const config = {
-  filePath: '../static/2020/106_Carolina_MUNICIPAL_14-1.jpg',
+  filePath: '../static/municipal/106_Carolina_MUNICIPAL_14-1.jpg',
   N_COLUMNS: 5,
   CELL_WIDTH: 385,
   STARTING_X: 195,
