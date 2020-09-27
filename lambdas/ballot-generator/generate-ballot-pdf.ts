@@ -1,31 +1,32 @@
-import puppeteer from 'puppeteer';
+import chromium from 'chrome-aws-lambda';
+import puppeteer from 'puppeteer-core';
 
 // const BASE_URL = 'http://localhost:8000/generate-ballot';
 const BASE_URL = 'https://paravotar.org/generate-ballot';
 
 type GenerateBallotParams = {
-  uuid: string;
-  params: string;
+  votes: string;
 };
 
-export default async function generateBallotPdf({
-  uuid,
-  params,
-}: GenerateBallotParams) {
+export default async function generateBallotPdf(votes: string) {
   try {
-    let browser = await puppeteer.launch({ headless: true });
-    let page = await browser.newPage();
+    const executablePath = await chromium.executablePath;
+    const browser = await puppeteer.launch({
+      args: chromium.args,
+      executablePath,
+    });
+    const page = await browser.newPage();
 
     // Consider the page to be loaded after 500ms without any network requests.
-    await page.goto(`${BASE_URL}?${params}`, { waitUntil: 'networkidle0' });
+    await page.goto(`${BASE_URL}?${votes}`, { waitUntil: 'networkidle0' });
     await page.waitFor('[data-state="success"]');
 
     // Get the "viewport" of the page, as reported by the page.
     const dimensions = await page.evaluate(() => {
-      let container = document.querySelector('[data-state="success"]');
+      const container = document.querySelector('[data-state="success"]');
 
       if (container) {
-        let ballot = container.children[0];
+        const ballot = container.children[0];
 
         return {
           width: ballot.clientWidth,
@@ -35,13 +36,14 @@ export default async function generateBallotPdf({
       return { width: 2200 };
     });
 
-    await page.pdf({
-      path: `static/${uuid}.pdf`,
+    let pdf = await page.pdf({
       printBackground: true,
       width: `${dimensions.width}px`,
     });
 
     await browser.close();
+
+    return pdf;
   } catch (err) {
     console.log(err);
   }

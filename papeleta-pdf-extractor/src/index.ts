@@ -6,6 +6,7 @@ import { USE_OCR } from './settings';
 
 import { config } from './config/2020/cidra/municipal';
 
+
 const originalImage = path.resolve(__dirname, config.filePath);
 
 const OUTPUT_DIR = path.resolve(__dirname, '../output');
