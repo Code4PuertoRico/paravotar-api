@@ -323,7 +323,7 @@ export enum ConfigType {
   Legislative = 'LEGISLATIVA',
   Municipal = 'MUNICIPAL',
 }
-export function getConfigLegislative(
+export function getConfig(
   configType: ConfigType = ConfigType.Legislative,
   municipio: string,
   precinto: string
