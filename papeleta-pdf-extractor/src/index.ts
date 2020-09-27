@@ -3,14 +3,35 @@ import fs from 'fs';
 import sharp from 'sharp';
 import { getOCRText } from './ocr';
 import { USE_OCR } from './settings';
-import { config } from './config/2020/moca/036-legislativa';
+// import { config } from './config/2020/luquillo/100-legislativa';
+import { getConfig } from './config/2020';
+
+const municipio = '';
+const precinto = '';
+
+const config = getConfig(
+  `../static/2020/${precinto}_${municipio}_LEGISLATIVA_17-1.jpg`,
+  `${municipio.toLowerCase()}-legislativa-${precinto}`
+);
 
 const originalImage = path.resolve(__dirname, config.filePath);
 
-const OUTPUT_DIR = path.resolve(__dirname, '../output');
-
+const OUTPUT_DIR = path.resolve(
+  __dirname,
+  `../output/${config.outputRootFolder}`
+);
+const IMAGE_OUTPUT_DIR = path.resolve(
+  __dirname,
+  `../output/${config.outputRootFolder}/images`
+);
+console.log('Validating output folders.');
 if (!fs.existsSync(OUTPUT_DIR)) {
+  console.log(`Creating ${OUTPUT_DIR}`);
   fs.mkdirSync(OUTPUT_DIR);
+}
+if (!fs.existsSync(IMAGE_OUTPUT_DIR)) {
+  console.log(`Creating ${IMAGE_OUTPUT_DIR}`);
+  fs.mkdirSync(IMAGE_OUTPUT_DIR);
 }
 
 const { CELL_WIDTH, N_COLUMNS, PERCENTAGE_DELTA, STARTING_X, rows } = config;
@@ -18,7 +39,14 @@ const { CELL_WIDTH, N_COLUMNS, PERCENTAGE_DELTA, STARTING_X, rows } = config;
 const main = async () => {
   const data = [];
 
+  console.log(`Processing ${path.basename(originalImage)}`);
+  console.log(
+    `Rows to process: ${rows.length}, Columns to process: ${N_COLUMNS}`
+  );
+
   for (let i = 0; i < rows.length; i++) {
+    console.log(`Processing row ${i} of ${rows.length}`);
+
     const rowData = [];
     let c = 1;
     const {
@@ -34,10 +62,12 @@ const main = async () => {
     } = rows[i];
 
     while (c <= N_COLUMNS) {
+      console.log(`Processing column ${c} of ${N_COLUMNS}`);
+
       const cell: { [key: string]: any } = {};
       const slicedImagePath = path.resolve(
         __dirname,
-        `${OUTPUT_DIR}/${IMAGE_NAME_PREFIX}-img-${c}.jpg`
+        `${IMAGE_OUTPUT_DIR}/${IMAGE_NAME_PREFIX}-img-${c}.jpg`
       );
 
       const delta = (c - 1) * (CELL_WIDTH * PERCENTAGE_DELTA);
@@ -58,19 +88,25 @@ const main = async () => {
       cell.img = slicedImagePath;
 
       if (USE_OCR) {
+        console.log(`Waiting on OCR for ${path.basename(slicedImagePath)}`);
+
         const resp = await getOCRText(slicedImagePath);
+
+        console.log('OCR done.');
 
         const ocrText = resp.ParsedResults[0].ParsedText;
 
         cell.ocrResult = ocrText;
       }
 
+      console.log(`Processing logos for row: ${i} and column; ${c}`);
       let logoFilePath = path.resolve(
         __dirname,
-        `${OUTPUT_DIR}/${IMAGE_NAME_PREFIX}-logo-${c}.jpg`
+        `${IMAGE_OUTPUT_DIR}/${IMAGE_NAME_PREFIX}-logo-${c}.jpg`
       );
 
       if (hasLogos && c <= N_LOGO!) {
+        console.log(`Processing logo ${c} of ${N_LOGO}`);
         const logoBuffer = await sharp(originalImage)
           .extract({
             left: left + LOGO_LEFT_DELTA!,
@@ -99,6 +135,11 @@ const main = async () => {
   fs.writeFileSync(
     path.resolve(__dirname, `${OUTPUT_DIR}/data.json`),
     JSON.stringify(data, null, 2)
+  );
+
+  fs.copyFileSync(
+    originalImage,
+    path.join(OUTPUT_DIR, `/${path.basename(originalImage)}`)
   );
 };
 
