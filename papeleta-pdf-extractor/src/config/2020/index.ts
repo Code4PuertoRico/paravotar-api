@@ -338,7 +338,9 @@ export function getConfig(
   const filePath = `../static/2020/${precinto}_${municipio}_${configType}_17-1.jpg`;
   const outputRootFolder =
     configType === ConfigType.Legislative
-      ? `${municipio.toLowerCase()}-${configType.toLowerCase()}-${precinto}`
+      ? `${municipio
+          .toLowerCase()
+          .replace(' ', '-')}-${configType.toLowerCase()}-${precinto}`
       : `${municipio.toLowerCase()}`;
 
   const config =
