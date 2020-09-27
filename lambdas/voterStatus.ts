@@ -10,7 +10,9 @@ import qs from "qs";
 import axios from "axios";
 import { parse } from "node-html-parser";
 
-const S3 = new AWS.S3();
+import config from './lib/aws';
+
+const S3 = new AWS.S3(config);
 const ceeUrl = "http://consulta.ceepur.org";
 const bucket = "paravotar";
 

@@ -27,7 +27,7 @@ export const config = {
       MAIN_TOP: 430,
       MAIN_HEIGHT: 60,
       hasLogos: true,
-      N_LOGO: 4,
+      N_LOGO: 3,
       LOGO_TOP: 430,
       LOGO_HEIGHT: 60,
       LOGO_LEFT_DELTA: 120,
