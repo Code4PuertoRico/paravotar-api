@@ -4,16 +4,12 @@ import sharp from 'sharp';
 import { getOCRText } from './ocr';
 import { USE_OCR } from './settings';
 // import { config } from './config/2020/luquillo/100-legislativa';
-import { getConfigLegislative, ConfigType } from './config/2020';
+import { getConfig, ConfigType } from './config/2020';
 
 const municipio = '';
 const precinto = '';
 
-const config = getConfigLegislative(
-  ConfigType.Legislative,
-  municipio,
-  precinto
-);
+const config = getConfig(ConfigType.Legislative, municipio, precinto);
 
 const originalImage = path.resolve(__dirname, config.filePath);
 
