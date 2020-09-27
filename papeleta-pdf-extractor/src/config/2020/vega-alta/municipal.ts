@@ -104,6 +104,6 @@ export const config = {
       MAIN_TOP: 1185,
       MAIN_HEIGHT: 60,
       hasLogos: false,
-    }
+    },
   ],
 };
