@@ -1,26 +1,13 @@
-import chromium from "chrome-aws-lambda";
-import puppeteer from "puppeteer-core";
 import _ from "lodash";
 import middy from "@middy/core";
 import cors from "@middy/http-cors";
 import doNotWaitForEmptyEventLoop from "@middy/do-not-wait-for-empty-event-loop";
 import httpErrorHandler from "@middy/http-error-handler";
-import AWS from "aws-sdk";
 import qs from "qs";
 import axios from "axios";
 import { parse } from "node-html-parser";
 
-import config from './lib/aws';
-
-const S3 = new AWS.S3(config);
 const ceeUrl = "http://consulta.ceepur.org";
-const bucket = "paravotar";
-
-const precintsFile = "precints.json";
-const countiesFile = "counties.json";
-const papeletasFile = "papeletas.json";
-
-const folder = "/papeletas/2016";
 
 const getConsulta = async (event: any) => {
   const voterId = _.get(event, "queryStringParameters.voterId", null);
@@ -83,95 +70,9 @@ const getConsulta = async (event: any) => {
       .value,
   };
 
-  if (!data.precinto) {
-    return {
-      statusCode: 404,
-      body: "Voter Id not found",
-    };
-  }
-
-  const precintos = JSON.parse(
-    (
-      await S3.getObject({
-        Bucket: bucket,
-        Key: precintsFile,
-        ResponseContentType: "application/json",
-      }).promise()
-    ).Body.toString()
-  );
-
-  const counties = JSON.parse(
-    (
-      await S3.getObject({
-        Bucket: bucket,
-        Key: countiesFile,
-        ResponseContentType: "application/json",
-      }).promise()
-    ).Body.toString()
-  );
-
-  const papeletas = JSON.parse(
-    (
-      await S3.getObject({
-        Bucket: bucket,
-        Key: papeletasFile,
-        ResponseContentType: "application/json",
-      }).promise()
-    ).Body.toString()
-  );
-
-  const p = _.get(precintos, data.precinto, null);
-
-  if (!p) {
-    return {
-      statusCode: 400,
-      body: "Unable to find ballots for precint " + data.precinto,
-    };
-  }
-
-  let legislativo = p.papeleta.split("/");
-
-  legislativo = `${folder}/${_.lowerCase(
-    decodeURIComponent(
-      legislativo[legislativo.length - 1].split(".").slice(0, -1).join(".")
-    )
-  )
-    .split(" ")
-    .join("-")}`;
-
-  let municipal = counties[_.camelCase(p.pueblo)].split("/");
-
-  municipal = `${folder}/${_.lowerCase(
-    decodeURIComponent(
-      municipal[municipal.length - 1].split(".").slice(0, -1).join(".")
-    )
-  )
-    .split(" ")
-    .join("-")}`;
-
-  let estatal = papeletas[0].papeletaLink.split("/");
-
-  estatal = `${folder}/${_.lowerCase(
-    decodeURIComponent(
-      estatal[estatal.length - 1].split(".").slice(0, -1).join(".")
-    )
-  )
-    .split(" ")
-    .join("-")}`;
-
-  const payload = {
-    ...data,
-    pueblo: p.pueblo,
-    papeletas: {
-      legislativo,
-      municipal,
-      estatal,
-    },
-  };
-
   return {
     statusCode: 200,
-    body: JSON.stringify(payload, null, 2),
+    body: JSON.stringify(data, null, 2),
   };
 };
 

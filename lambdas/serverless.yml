@@ -14,8 +14,8 @@
 service: scrape-lambda
 # app and org for use with dashboard.serverless.com
 # TODO: Comment out.
-app: scrape-lambda-app
-org: emmaluciano11
+# app: scrape-lambda-app
+# org: emmaluciano11
 
 # You can pin your service to only deploy with a specific Serverless version
 # Check out our docs for more details
@@ -74,16 +74,6 @@ package:
 
 functions:
   # TODO: Uncomment
-  # getVoterStatus:
-  #   handler: voterStatus.getVoterStatus
-  #   memorySize: 1536MB
-  #   timeout: 30
-  #   environment:
-  #     DEBUG: true
-  #   events:
-  #     - http:
-  #         path: /voterStatus
-  #         method: get
 
   # consulta:
   #   handler: voterStatus.consulta

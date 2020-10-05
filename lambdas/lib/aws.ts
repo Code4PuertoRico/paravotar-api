@@ -4,10 +4,7 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 // AWS config singleton
-export default new AWS.Config({
-  credentials: new AWS.Credentials({
-    accessKeyId: process.env.PV_AWS_ACCESS_KEY,
-    secretAccessKey: process.env.PV_AWS_SECRET_KEY,
-  }),
-  region: process.env.PV_AWS_REGION,
+export const S3 = new AWS.S3({
+  accessKeyId: process.env.PV_AWS_ACCESS_KEY,
+  secretAccessKey: process.env.PV_AWS_SECRET_KEY,
 })
