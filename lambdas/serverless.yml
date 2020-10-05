@@ -13,9 +13,6 @@
 
 service: scrape-lambda
 # app and org for use with dashboard.serverless.com
-# TODO: Comment out.
-# app: scrape-lambda-app
-# org: emmaluciano11
 
 # You can pin your service to only deploy with a specific Serverless version
 # Check out our docs for more details
@@ -28,7 +25,22 @@ provider:
     - Effect: 'Allow'
       Action:
         - 's3:GetObject'
+        - 's3:PutObject'
       Resource: "arn:aws:s3:::paravotar/*"
+    - Effect: 'Allow'
+      Action:
+        - 's3:ListBucket'
+      Resource: "arn:aws:s3:::*"
+    - Effect: 'Allow'
+      Action:
+        - 's3:GetObject'
+        - 's3:PutObject'
+      Resource: "arn:aws:s3:::paravotar-ballots/*"
+    - Effect: 'Allow'
+      Action:
+        - 'sqs:SendMessage'
+        - 'sqs:ReceiveMessage'
+      Resource: 'arn:aws:sqs:*:*:*'
 
 plugins:
   - serverless-webpack
@@ -73,18 +85,50 @@ package:
     - node_modules/puppeteer/.local-chromium/**
 
 functions:
-  # TODO: Uncomment
-
-  # consulta:
-  #   handler: voterStatus.consulta
-  #   memorySize: 1536MB
-  #   timeout: 30
-  #   environment:
-  #     DEBUG: true
-  #   events:
-  #     - http:
-  #         path: /consulta
-  #         method: get
+  consulta:
+    handler: voterStatus.consulta
+    memorySize: 1536MB
+    timeout: 30
+    environment:
+      DEBUG: true
+    events:
+      - http:
+          path: /consulta
+          method: get
+  
+  ballotsByTown:
+    handler: getBallots.ballotsByTown
+    memorySize: 1536MB
+    timeout: 30
+    environment:
+      DEBUG: true
+    events:
+      - http:
+          path: /ballots/ByTown
+          method: get
+  
+  ballotsByPrecint:
+    handler: getBallots.ballotsByPrecint
+    memorySize: 1536MB
+    timeout: 30
+    environment:
+      DEBUG: true
+    events:
+      - http:
+          path: /ballots/ByPrecint
+          method: get
+    
+  allBallots:
+    handler: getBallots.allBallots
+    memorySize: 1536MB
+    timeout: 30
+    environment:
+      DEBUG: true
+    events:
+      - http:
+          path: /ballots/all
+          method: get
+          
 
   createBallotTask:
     handler: generateBallot.createBallotTask
@@ -112,14 +156,14 @@ functions:
     handler: generateBallot.generatePdfHandler
     events:
       - sqs:
-          arn: arn:aws:sqs:us-east-1:952144174923:GenerateBallotQueue
+          arn: arn:aws:sqs:us-east-1:214416850928:GenerateBallotQueue
           batchSize: 1
 
   cleanUpPdf:
     handler: generateBallot.cleanUpPdfHandler
     events:
       - sqs:
-          arn: arn:aws:sqs:us-east-1:952144174923:BallotCleanUpQueue
+          arn: arn:aws:sqs:us-east-1:214416850928:BallotCleanUpQueue
           batchSize: 1
 
 

@@ -7,7 +7,7 @@ import qs from "qs";
 import axios from "axios";
 import { parse } from "node-html-parser";
 
-const ceeUrl = "http://consulta.ceepur.org";
+const ceeUrl = "https://consulta.ceepur.org";
 
 const getConsulta = async (event: any) => {
   const voterId = _.get(event, "queryStringParameters.voterId", null);

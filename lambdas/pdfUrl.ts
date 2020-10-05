@@ -3,12 +3,10 @@ import cors from "@middy/http-cors";
 import httpErrorHandler from "@middy/http-error-handler";
 
 import _ from "lodash";
-import AWS from "aws-sdk";
 
-import config from './lib/aws';
+import { S3 } from './lib/aws';
 import { BUCKET_NAME } from "./constants";
 
-const S3 = new AWS.S3(config);
 const GENERIC_ERROR = {
   statusCode: 400,
   body: JSON.stringify({ error: "invalid or missing uuid" }),

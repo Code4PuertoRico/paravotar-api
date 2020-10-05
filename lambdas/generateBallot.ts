@@ -7,21 +7,17 @@ import _ from "lodash";
 import AWS from "aws-sdk";
 import {nanoid} from 'nanoid';
 
-import config from './lib/aws';
+import { S3, SQS } from './lib/aws';
 import schedulePdfCleanUp from "./ballot-generator/schedule-pdf-clean-up";
 import generateBallotPdf from './ballot-generator/generate-ballot-pdf';
 import uploadBallot from './ballot-generator/upload-ballot';
 import { BUCKET_NAME } from "./constants";
 
-const S3 = new AWS.S3(config);
-const SQS = new AWS.SQS(config)
-
 async function createTask(uuid: string, votes: string) {
   return new Promise((resolve, reject) => {
     SQS.sendMessage({
       MessageBody: JSON.stringify({ uuid, votes }),
-      // TODO: Change for real queue url
-      QueueUrl: 'https://sqs.us-east-1.amazonaws.com/952144174923/GenerateBallotQueue'
+      QueueUrl: 'https://sqs.us-east-1.amazonaws.com/214416850928/GenerateBallotQueue'
     }, (err, data) => {
       if (err) {
         return reject(err);
