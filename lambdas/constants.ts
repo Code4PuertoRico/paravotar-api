@@ -1,1 +1,1 @@
-export const BUCKET_NAME = 'ballots';
+export const BUCKET_NAME = 'paravotar-ballots';

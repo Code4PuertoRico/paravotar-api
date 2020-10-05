@@ -1,9 +1,5 @@
-import AWS from 'aws-sdk';
-
 import { BUCKET_NAME } from "../constants";
-import config from '../lib/aws';
-
-const S3 = new AWS.S3(config)
+import { S3 } from '../lib/aws';
 
 // 3 minutes of ttl.
 const TTL_IN_MS = 3 * 60 * 1000;
