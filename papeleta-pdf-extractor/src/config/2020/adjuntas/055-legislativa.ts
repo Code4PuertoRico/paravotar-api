@@ -1,5 +1,5 @@
 export const config = {
-  filePath: '../static/2020/055_Ajuntas_LEGISLATIVA_17-1.jpg',
+  filePath: '../static/2020/055_Adjuntas_LEGISLATIVA_17-1.jpg',
   N_COLUMNS: 6,
   CELL_WIDTH: 385,
   STARTING_X: 195,
