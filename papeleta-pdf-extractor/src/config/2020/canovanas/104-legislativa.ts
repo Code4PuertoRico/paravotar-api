@@ -1,5 +1,5 @@
 export const config = {
-  filePath: '../static/2020/011_Bayamon_LEGISLATIVA.jpg',
+  filePath: '../static/2020/104_Canovanas_LEGISLATIVA.jpg',
   N_COLUMNS: 6,
   CELL_WIDTH: 385,
   STARTING_X: 195,
@@ -44,7 +44,7 @@ export const config = {
       MAIN_TOP: 555,
       MAIN_HEIGHT: 60,
       hasLogos: true,
-      N_LOGO: 4,
+      N_LOGO: 5,
       LOGO_TOP: 555,
       LOGO_HEIGHT: 60,
       LOGO_LEFT_DELTA: 120,

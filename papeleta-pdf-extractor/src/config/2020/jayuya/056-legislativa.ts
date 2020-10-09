@@ -1,5 +1,5 @@
 export const config = {
-  filePath: '../static/2020/056_Jayuya_LEGISLATIVA_17-1.jpg',
+  filePath: '../static/2020/056_Jayuya_LEGISLATIVA.jpg',
   N_COLUMNS: 6,
   CELL_WIDTH: 385,
   STARTING_X: 195,
