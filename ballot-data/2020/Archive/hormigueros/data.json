@@ -1,0 +1,191 @@
+[
+  [
+    {
+      "ocrResult": "PARTIDO NUEVO PROGRESISTA\r\n",
+      "logoImg": "images/1-partido-logo-1.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO POPULAR\r\nDEMOCRÁTICO\r\n",
+      "logoImg": "images/1-partido-logo-2.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO INDEPENDENTISTA\r\nPUERTORRIQUEÑO\r\n",
+      "logoImg": "images/1-partido-logo-3.jpg"
+    },
+    {
+      "ocrResult": "COMO VOTAR NOMINACIÓN DIRECTA\r\nEn esta columna puede votar por otra(s) persona(s) distinta(s) a las que\r\naparecen como candidatos(as) en columnas anteriores de esta\r\npapeleta, Para votar por persona(s) de su preferencia. escriba su\r\nnombre completo en el encasalado de la columna de nominación directa\r\nque corresponda a la candidatura y también debe hacer una Marca\r\nVálida dentro del rectángulo en blanco al lado de cada nombre escrito.\r\nHOW TO VOTE FOR WRITE W CANDIDATES\r\nIrl this column you can vote for another person(s) difterent from those\r\nlisted as candidates in the previous columns ofthis ballot To vote forthe\r\nperson(s) of your choice, write their full name on the box Of the Write-in\r\ncolumn that corresponds to the candidacy, and you must also make a\r\nvalid mark within the Nank rectangle next gach written name.\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Raymond Vega Ramos\r\n",
+      "logoImg": "images/3-alcalde-logo-1.jpg"
+    },
+    {
+      "ocrResult": "Pedro García\r\n",
+      "logoImg": "images/3-alcalde-logo-2.jpg"
+    },
+    {
+      "ocrResult": "Alberto (Fufo) Fuentes\r\nLorenzo\r\n",
+      "logoImg": "images/3-alcalde-logo-3.jpg"
+    },
+    {
+      "ocrResult": "",
+      "logoImg": "images/3-alcalde-logo-4.jpg"
+    }
+  ],
+  [
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "1.\r\nJosé L Acevedo\r\nOlivencia (Paché)\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nRicardo Mauroza\r\nBonilla\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nJudith Marti Pratts\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "2.\r\nNicolás Toro Pérez\r\n"
+    },
+    {
+      "ocrResult": "2.\r\nIsrael Peña Mercado\r\n"
+    },
+    {
+      "ocrResult": "2.\r\nVilma Piña Otero\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Gerardo Rosario\r\n3.\r\nTorres\r\n"
+    },
+    {
+      "ocrResult": "3.\r\nMaida Jiménez\r\nRodríguez\r\n"
+    },
+    {
+      "ocrResult": "3.\r\nIsaac Martínez Pérez\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Carlos I. Rodríguez\r\n4.\r\nOrtiz\r\n"
+    },
+    {
+      "ocrResult": "Wilma E. Sánchez\r\n4.\r\nCruz\r\n"
+    },
+    {
+      "ocrResult": "4.\r\nÁngel Luis Morot\r\nRamos\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "5.\r\nOmar Martínez Pagán\r\n"
+    },
+    {
+      "ocrResult": "5.\r\nIvelisse Durand Vélez\r\n"
+    },
+    {
+      "ocrResult": "5.\r\nAlondra Judith Troche\r\nPadilla\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "6.\r\nEdgardo J. Pizarro\r\nBisbal\r\n"
+    },
+    {
+      "ocrResult": "6.\r\nMadelyn Bonilla Alicea\r\n"
+    },
+    {
+      "ocrResult": "6.\r\nWilliam Vélez Pérez\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Primitivo Irizarry Flores\r\n"
+    },
+    {
+      "ocrResult": "Edward Cancel\r\n7.\r\nRodríguez\r\n"
+    },
+    {
+      "ocrResult": "7.\r\nÁngel L. Echevarría\r\nPabón\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "8.\r\nLigsia Díaz\r\n"
+    },
+    {
+      "ocrResult": "8.\r\nMario Salas Torres\r\n"
+    },
+    {
+      "ocrResult": "8.\r\nDavid Troche Marti\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "9.\r\nÁngel Ayala Rodríguez\r\n"
+    },
+    {
+      "ocrResult": "Nannette Loperena\r\n9.\r\nOrtiz\r\n"
+    },
+    {
+      "ocrResult": "Luis M. Acevedo\r\n9.\r\nLebrón\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ]
+]

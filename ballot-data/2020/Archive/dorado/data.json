@@ -1,0 +1,264 @@
+[
+  [
+    {
+      "ocrResult": "PARTIDO NUEVO PROGRESISTA\r\n",
+      "logoImg": "images/1-partido-logo-1.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO POPULAR\r\nDEMOCRÁTICO\r\n",
+      "logoImg": "images/1-partido-logo-2.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO INDEPENDENTISTA\r\nPUERTORRIQUEÑO\r\n",
+      "logoImg": "images/1-partido-logo-3.jpg"
+    },
+    {
+      "ocrResult": "MOVIMIENTO VICTORIA\r\nCIUDADANA\r\n",
+      "logoImg": "images/1-partido-logo-4.jpg"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Waldemar Volmar\r\nMéndez\r\n",
+      "logoImg": "images/3-alcalde-logo-1.jpg"
+    },
+    {
+      "ocrResult": "Carlos A. López Rivera\r\n",
+      "logoImg": "images/3-alcalde-logo-2.jpg"
+    },
+    {
+      "ocrResult": "José L. Fernández\r\nPagán\r\n",
+      "logoImg": "images/3-alcalde-logo-3.jpg"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Adalberto Maldonado\r\nRomero\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nCarlos Alberto López\r\nRomán\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nRoberto Rodríguez\r\nMaldonado\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nDemy Arturo De Jesús\r\nHernández\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Miguel Ángel Rosado\r\n2.\r\nLópez\r\n"
+    },
+    {
+      "ocrResult": "2.\r\nDaisy Ríos Isern\r\n"
+    },
+    {
+      "ocrResult": "Rebecca Martínez\r\n2.\r\nFonalledas\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Jesús Ramiro Dávila\r\n3.\r\nRosa\r\n"
+    },
+    {
+      "ocrResult": "Joan Manuel\r\n3.\r\nRodríguez Bloise\r\n"
+    },
+    {
+      "ocrResult": "3.\r\nJuana Marzán\r\nConcepción\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Carmen D Pérez\r\nCuascut\r\n"
+    },
+    {
+      "ocrResult": "4.\r\nHéctor J. López\r\nSalgado\r\n"
+    },
+    {
+      "ocrResult": "Elizabeth Martínez\r\n4.\r\nFonalledas\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Josue Isaac Pérez\r\n5.\r\nRomán\r\n"
+    },
+    {
+      "ocrResult": "Miguel Ángel\r\n5.\r\nConcepción Báez "
+    },
+    {
+      "ocrResult": "5.\r\nTrinidad Pérez García\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "6.\r\nOlga I López\r\nHernández\r\n"
+    },
+    {
+      "ocrResult": "Ramón Hernández\r\n6.\r\nMorales\r\n"
+    },
+    {
+      "ocrResult": "Carmen M. Ramos\r\n6.\r\nDíaz\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Manuel De Jesús\r\nLópez Alamo\r\n"
+    },
+    {
+      "ocrResult": "7.\r\nGloria C. Pérez Reyes\r\n"
+    },
+    {
+      "ocrResult": "Jaime García\r\n7.\r\nRodríguez\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Raymond Antonio\r\n8.\r\nÁlvarez Marrero\r\n"
+    },
+    {
+      "ocrResult": "8.\r\nAdrián Edgardo\r\nHuertas López\r\n"
+    },
+    {
+      "ocrResult": "Roberto Rodríguez\r\n8.\r\nRamos\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "9.\r\nEdda Vélez Báez "
+    },
+    {
+      "ocrResult": "Freyda V. Miranda\r\n9.\r\nRíos\r\n"
+    },
+    {
+      "ocrResult": "Krenly Cruz Ramírez\r\n9.\r\nDe Arellanos\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "10.\r\nÁngel Manuel Jr\r\nNieves Rivera\r\n"
+    },
+    {
+      "ocrResult": "10.\r\nJosé E. Cartagena\r\nRodríguez\r\n"
+    },
+    {
+      "ocrResult": "10.\r\nRosario Córdova Otero\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "11.\r\nDavid Sierra Meléndez\r\n"
+    },
+    {
+      "ocrResult": "11.\r\nJosé A. Torres Archilla\r\n"
+    },
+    {
+      "ocrResult": "María Isabel\r\n11.\r\nRodríguez Torres\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ]
+]

@@ -1,0 +1,298 @@
+[
+  [
+    {
+      "ocrResult": "PARTIDO NUEVO PROGRESISTA\r\n",
+      "logoImg": "images/1-partido-logo-1.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO POPULAR\r\nDEMOCRÁTICO\r\n",
+      "logoImg": "images/1-partido-logo-2.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO INDEPENDENTISTA\r\nPUERTORRIQUEÑO\r\n",
+      "logoImg": "images/1-partido-logo-3.jpg"
+    },
+    {
+      "ocrResult": "MOVIMIENTO VICTORIA\r\nCIUDADANA\r\n",
+      "logoImg": "images/1-partido-logo-4.jpg"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Héctor (Jun) Collazo\r\nAyala\r\n",
+      "logoImg": "images/3-alcalde-logo-1.jpg"
+    },
+    {
+      "ocrResult": "Clemente (Chito)\r\nAgosto\r\n",
+      "logoImg": "images/3-alcalde-logo-2.jpg"
+    },
+    {
+      "ocrResult": "Pedro Aníbal Diaz\r\n",
+      "logoImg": "images/3-alcalde-logo-3.jpg"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Efraín Tirado Vélez\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nDomingo Hernández\r\nMiró\r\n"
+    },
+    {
+      "ocrResult": "Fidel (Papin) Lozada\r\nGutiérrez\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nNorma Jiménez\r\nSánchez\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "2.\r\nMelvin Colón Maysonet\r\n"
+    },
+    {
+      "ocrResult": "2.\r\nEddie Ortiz Guzmán\r\n"
+    },
+    {
+      "ocrResult": "Humberto (Papo Piña)\r\n2.\r\nMiranda\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "3.\r\nJesús Andino García\r\n"
+    },
+    {
+      "ocrResult": "3.\r\nJosé R. Díaz\r\nRodríguez\r\n"
+    },
+    {
+      "ocrResult": "Osvaldo Sostre\r\n3.\r\nNarváez\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Marcos E. García\r\n4.\r\nMarrero\r\n"
+    },
+    {
+      "ocrResult": "4.\r\nJuan B. Pérez Acevedo\r\n"
+    },
+    {
+      "ocrResult": "Awilda Heredia\r\n4.\r\nMercado\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "5.\r\nKaraliz Bonilla Pérez\r\n"
+    },
+    {
+      "ocrResult": "5.\r\nVicenta Mojica Morales\r\n"
+    },
+    {
+      "ocrResult": "5.\r\nJuan Class López\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "6.\r\nJonathan Tirado Pérez\r\n"
+    },
+    {
+      "ocrResult": "6.\r\nLorna D. Perez\r\nLoma\r\nHernández\r\n"
+    },
+    {
+      "ocrResult": "6.\r\nDavid Trinta\r\nCasablanca\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Zadiel Nieves Vázquez\r\n"
+    },
+    {
+      "ocrResult": "7.\r\nMitchell Vélez Jiménez\r\n"
+    },
+    {
+      "ocrResult": "Roberto Kuilan\r\n7.\r\nSantiago\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "8.\r\nHéctor F. Rondón Cruz\r\n"
+    },
+    {
+      "ocrResult": "8.\r\nLuis Alfredo Colón\r\nMorales\r\n"
+    },
+    {
+      "ocrResult": "Rosa M. Maldonado\r\n8.\r\nRodríguez\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "9.\r\nLuz I Rivera Vázquez\r\n"
+    },
+    {
+      "ocrResult": "Nelson Radamés\r\n9.\r\nCintrón Noriega\r\n"
+    },
+    {
+      "ocrResult": "9.\r\nJulia H. Alvarado Ortiz\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "10.\r\nEmanuel Rivera\r\nCollazo (Macho)\r\n"
+    },
+    {
+      "ocrResult": "10.\r\nJorge Rodríguez Pérez\r\n"
+    },
+    {
+      "ocrResult": "10.\r\nAlejandro Alvarado\r\nRivera\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "11.\r\nGuillermo J Cabeza\r\nOrtiz\r\n"
+    },
+    {
+      "ocrResult": "11.\r\nMarieli Ferrao Ayala\r\n"
+    },
+    {
+      "ocrResult": "11.\r\nAnabel Sánchez Ayala\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "12.\r\nBrenda L Díaz Batista\r\n"
+    },
+    {
+      "ocrResult": "12.\r\nAlberto Arroyo Andino\r\n"
+    },
+    {
+      "ocrResult": "Syldia Del C. García\r\n12.\r\nDíaz\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "13.\r\nRosabel Vázquez\r\nRosado\r\n"
+    },
+    {
+      "ocrResult": "13.\r\nHarry González\r\nGonzález\r\n"
+    },
+    {
+      "ocrResult": "13.\r\nIndamarién Rosa\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ]
+]

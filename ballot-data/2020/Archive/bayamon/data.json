@@ -1,0 +1,298 @@
+[
+  [
+    {
+      "ocrResult": "PARTIDO NUEVO PROGRESISTA\r\n",
+      "logoImg": "images/1-partido-logo-1.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO POPULAR\r\nDEMOCRÁTICO\r\n",
+      "logoImg": "images/1-partido-logo-2.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO INDEPENDENTISTA\r\nPUERTORRIQUEÑO\r\n",
+      "logoImg": "images/1-partido-logo-3.jpg"
+    },
+    {
+      "ocrResult": "MOVIMIENTO VICTORIA\r\nCIUDADANA\r\n",
+      "logoImg": "images/1-partido-logo-4.jpg"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Ramón Luis Rivera\r\nCruz\r\n",
+      "logoImg": "images/3-alcalde-logo-1.jpg"
+    },
+    {
+      "ocrResult": "Jorge Valldejuli Reyes\r\n",
+      "logoImg": "images/3-alcalde-logo-2.jpg"
+    },
+    {
+      "ocrResult": "Noel Berríos Díaz\r\n",
+      "logoImg": "images/3-alcalde-logo-3.jpg"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Manuel J Camacho\r\nCórdova\r\n"
+    },
+    {
+      "ocrResult": "Olga Grajales\r\nMeléndez\r\n"
+    },
+    {
+      "ocrResult": "Annabelle Rivera\r\nSantiago\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nHilda Santana García\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Rolando Meléndez\r\n2.\r\nMartínez\r\n"
+    },
+    {
+      "ocrResult": "Sandra Infanzón\r\n2.\r\nPadilla\r\n"
+    },
+    {
+      "ocrResult": "2.\r\nRodrigo Báez Serrano\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "3.\r\nAlfonso José\r\nFernández Debs\r\n"
+    },
+    {
+      "ocrResult": "3.\r\nJoalice Santiago\r\nRodríguez\r\n"
+    },
+    {
+      "ocrResult": "3.\r\nYalivette Valentín Vega\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "4.\r\nMagaly Rivera Rivera\r\n"
+    },
+    {
+      "ocrResult": "4.\r\nEric Colón Rodríguez\r\n"
+    },
+    {
+      "ocrResult": "Edgardo Javier Báez 4.\r\nGarcía\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "5.\r\nJosé A. Lugo Vega\r\n"
+    },
+    {
+      "ocrResult": "Erica Mariana Colón\r\n5.\r\nOrtega\r\n"
+    },
+    {
+      "ocrResult": "5.\r\nNatalia Berríos Irizarry\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Magali (Maga) Nieves\r\n6.\r\nMontalvo\r\n"
+    },
+    {
+      "ocrResult": "6.\r\nZullymar Maldonado\r\nRivera\r\n"
+    },
+    {
+      "ocrResult": "6.\r\nErnesto Rodríguez\r\nRobles\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Ana I. Colón Rivera\r\n"
+    },
+    {
+      "ocrResult": "Luis Javier Echegaray\r\n7.\r\nLópez\r\n"
+    },
+    {
+      "ocrResult": "7.\r\nDavid A. Ávila\r\nConcepción\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "8.\r\nCarmen J Ingles Lucret\r\n"
+    },
+    {
+      "ocrResult": "María V. Figueroa\r\n8.\r\nMartínez\r\n"
+    },
+    {
+      "ocrResult": "8.\r\nGladys Astacio Burgos\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Elba (Lulu) Pintado\r\n9.\r\nMeléndez\r\n"
+    },
+    {
+      "ocrResult": "José Joaquín Mulinelli\r\n9.\r\nRodríguez\r\n"
+    },
+    {
+      "ocrResult": "María Del C. Borges\r\n9.\r\nMassas\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "10.\r\nJowen Santos Hilerio\r\n"
+    },
+    {
+      "ocrResult": "10.\r\nLuisa Herrera Jiménez\r\n"
+    },
+    {
+      "ocrResult": "10.\r\nNatalia Acosta Torres\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "11.\r\nÁngel Jesús Vélez\r\nVargas\r\n"
+    },
+    {
+      "ocrResult": "11.\r\nPablo Álvarez Dacosta\r\n"
+    },
+    {
+      "ocrResult": "Rosa Irene Santiago\r\n11.\r\nColón\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Lilybeth Martínez\r\n12.\r\nCosme\r\n"
+    },
+    {
+      "ocrResult": "Wilmaris Ivelis Padilla\r\n12.\r\nReyes\r\n"
+    },
+    {
+      "ocrResult": "Flor Ismenia Chévere\r\n12.\r\nColón\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Carlos Yamil Rivera\r\n13.\r\nVázquez\r\n"
+    },
+    {
+      "ocrResult": "Juan Ramón \"Chiki\"\r\n13.\r\nTorres Rivera\r\n"
+    },
+    {
+      "ocrResult": "Providencia Figueroa\r\n13.\r\nFerrer\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ]
+]

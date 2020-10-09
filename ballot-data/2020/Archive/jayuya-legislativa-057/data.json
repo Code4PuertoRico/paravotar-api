@@ -1,0 +1,457 @@
+[
+  [
+    {
+      "ocrResult": "PARTIDO NUEVO PROGRESISTA\r\n",
+      "logoImg": "images/1-partido-logo-1.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO POPULAR\r\nDEMOCRÁTICO\r\n",
+      "logoImg": "images/1-partido-logo-2.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO INDEPENDENTISTA\r\nPUERTORRIQUEÑO\r\n",
+      "logoImg": "images/1-partido-logo-3.jpg"
+    },
+    {
+      "ocrResult": "MOVIMIENTO VICTORIA\r\nCIUDADANA\r\n",
+      "logoImg": "images/1-partido-logo-4.jpg"
+    },
+    {
+      "ocrResult": "PROYECTO DIGNIDAD\r\n",
+      "logoImg": "images/1-partido-logo-5.jpg"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "REPRESENTANTE POR DISTRITO\r\nDISTRICT REPRESENTATIVE\r\n"
+    },
+    {
+      "ocrResult": "REPRESENTANTE POR DISTRITO\r\nDISTRICT REPRESENTATIVE\r\n"
+    },
+    {
+      "ocrResult": "REPRESENTANTE POR DISTRITO\r\nDISTRICT REPRESENTATIVE\r\n"
+    },
+    {
+      "ocrResult": "REPRESENTANTE POR DISTRITO\r\nDISTRICT REPRESENTATIVE\r\n"
+    },
+    {
+      "ocrResult": "REPRESENTANTE POR DISTRITO\r\nDISTRICT REPRESENTATIVE\r\n"
+    },
+    {
+      "ocrResult": "REPRESENTANTE POR DISTRITO\r\nDISTRICT REPRESENTATIVE\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Jacqueline (Jackie)\r\nRodríguez\r\n",
+      "logoImg": "images/3-representates-distrito-logo-1.jpg"
+    },
+    {
+      "ocrResult": "Domingo Torres García\r\n",
+      "logoImg": "images/3-representates-distrito-logo-2.jpg"
+    },
+    {
+      "ocrResult": "Gerardo Cruz López\r\n",
+      "logoImg": "images/3-representates-distrito-logo-3.jpg"
+    },
+    {
+      "ocrResult": "",
+      "logoImg": "images/3-representates-distrito-logo-4.jpg"
+    },
+    {
+      "ocrResult": "1.\r\nJosé Alberto\r\nHernández Pagán\r\n",
+      "logoImg": "images/3-representates-distrito-logo-5.jpg"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "SENADOR POR DISTRITO\r\nDISTRICT SENATOR\r\n"
+    },
+    {
+      "ocrResult": "SENADOR POR DISTRITO\r\nDISTRICT SENATOR\r\n"
+    },
+    {
+      "ocrResult": "SENADOR POR DISTRITO\r\nDISTRICT SENATOR\r\n"
+    },
+    {
+      "ocrResult": "SENADOR POR DISTRITO\r\nDISTRICT SENATOR\r\n"
+    },
+    {
+      "ocrResult": "SENADOR POR DISTRITO\r\nDISTRICT SENATOR\r\n"
+    },
+    {
+      "ocrResult": "SENADOR POR DISTRITO\r\nDISTRICT SENATOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "2.\r\nLuis Berdiel\r\n",
+      "logoImg": "images/5-senadores-1-logo-1.jpg"
+    },
+    {
+      "ocrResult": "2.\r\nMarially González\r\n",
+      "logoImg": "images/5-senadores-1-logo-2.jpg"
+    },
+    {
+      "ocrResult": "José (Maché) Ortiz\r\n",
+      "logoImg": "images/5-senadores-1-logo-3.jpg"
+    },
+    {
+      "ocrResult": "Maikel González\r\nAlvarado\r\n",
+      "logoImg": "images/5-senadores-1-logo-4.jpg"
+    },
+    {
+      "ocrResult": "Luis Yordán Frau\r\n",
+      "logoImg": "images/5-senadores-1-logo-5.jpg"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Nelson Cruz (El\r\n3\r\nVigilante)\r\n",
+      "logoImg": "images/6-senadores-2-logo-1.jpg"
+    },
+    {
+      "ocrResult": "Ramón (Ramoncito)\r\nRuiz",
+      "logoImg": "images/6-senadores-2-logo-2.jpg"
+    },
+    {
+      "ocrResult": "Ángel Comas\r\n",
+      "logoImg": "images/6-senadores-2-logo-3.jpg"
+    },
+    {
+      "ocrResult": "Daniel (Danny) Ortiz\r\n",
+      "logoImg": "images/6-senadores-2-logo-4.jpg"
+    },
+    {
+      "ocrResult": "Elaine M. Arrufat\r\nBerastaín\r\n",
+      "logoImg": "images/6-senadores-2-logo-5.jpg"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "REPRESENTANTE POR ACUMULACIÓN\r\nAT-LARGE REPRESENTATIVE\r\n"
+    },
+    {
+      "ocrResult": "REPRESENTANTE POR ACUMULACIÓN\r\nAT-LARGE REPRESENTATIVE\r\n"
+    },
+    {
+      "ocrResult": "REPRESENTANTE POR ACUMULACIÓN\r\nAT-LARGE REPRESENTATIVE\r\n"
+    },
+    {
+      "ocrResult": "REPRESENTANTE POR ACUMULACIÓN\r\nAT-LARGE REPRESENTATIVE\r\n"
+    },
+    {
+      "ocrResult": "REPRESENTANTE POR ACUMULACIÓN\r\nAT-LARGE REPRESENTATIVE\r\n"
+    },
+    {
+      "ocrResult": "REPRESENTANTE POR ACUMULACIÓN\r\nAT-LARGE REPRESENTATIVE\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "José Aponte Hernández\r\n4.\r\n",
+      "logoImg": "images/8-representates-acumulacion-1-logo-1.jpg"
+    },
+    {
+      "ocrResult": "Keyliz Méndez Torres\r\n",
+      "logoImg": "images/8-representates-acumulacion-1-logo-2.jpg"
+    },
+    {
+      "ocrResult": "Denis Márquez Lebrón\r\n",
+      "logoImg": "images/8-representates-acumulacion-1-logo-3.jpg"
+    },
+    {
+      "ocrResult": "4.\r\nJosé Bernardo Márquez\r\n",
+      "logoImg": "images/8-representates-acumulacion-1-logo-4.jpg"
+    },
+    {
+      "ocrResult": "Lisie Janet Burgos\r\n4.\r\nMuñiz",
+      "logoImg": "images/8-representates-acumulacion-1-logo-5.jpg"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Lourdes Ramos\r\n5.\r\n",
+      "logoImg": "images/9-representates-acumulacion-2-logo-1.jpg"
+    },
+    {
+      "ocrResult": "5.\r\nGabriel López Arneta\r\n",
+      "logoImg": "images/9-representates-acumulacion-2-logo-2.jpg"
+    },
+    {
+      "ocrResult": "",
+      "logoImg": "images/9-representates-acumulacion-2-logo-3.jpg"
+    },
+    {
+      "ocrResult": "Mariana Nogales\r\nMolinelli\r\n",
+      "logoImg": "images/9-representates-acumulacion-2-logo-4.jpg"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "José (Pichy) Torres\r\nZamora\r\n",
+      "logoImg": "images/10-representates-acumulacion-3-logo-1.jpg"
+    },
+    {
+      "ocrResult": "Enid Monge\r\n",
+      "logoImg": "images/10-representates-acumulacion-3-logo-2.jpg"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Jorge Emmanuel Báez Pagán\r\n",
+      "logoImg": "images/11-representates-acumulacion-4-logo-1.jpg"
+    },
+    {
+      "ocrResult": "Yaramary Torres\r\n",
+      "logoImg": "images/11-representates-acumulacion-4-logo-2.jpg"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "José Enrique (Quiquito)\r\n8.\r\nMeléndez Ortiz\r\n",
+      "logoImg": "images/12-representates-acumulacion-5-logo-1.jpg"
+    },
+    {
+      "ocrResult": "8.\r\nJesús Manuel Ortiz\r\nGonzález\r\n",
+      "logoImg": "images/12-representates-acumulacion-5-logo-2.jpg"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "9.\r\n(Joven No Vidente)\r\nNéstor Alonso\r\n",
+      "logoImg": "images/13-representates-acumulacion-6-logo-1.jpg"
+    },
+    {
+      "ocrResult": "Héctor Ferrer\r\n",
+      "logoImg": "images/13-representates-acumulacion-6-logo-2.jpg"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "SENADOR POR ACUMULACIÓN\r\nAT-LARGE SENATOR\r\n"
+    },
+    {
+      "ocrResult": "SENADOR POR ACUMULACIÓN\r\nAT-LARGE SENATOR\r\n"
+    },
+    {
+      "ocrResult": "SENADOR POR ACUMULACIÓN\r\nAT-LARGE SENATOR\r\n"
+    },
+    {
+      "ocrResult": "SENADOR POR ACUMULACIÓN\r\nAT-LARGE SENATOR\r\n"
+    },
+    {
+      "ocrResult": "SENADOR POR ACUMULACIÓN\r\nAT-LARGE SENATOR\r\n"
+    },
+    {
+      "ocrResult": "SENADOR POR ACUMULACIÓN\r\nAT-LARGE SENATOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Gregorio Matías\r\n10.\r\nRosario",
+      "logoImg": "images/15-senadores-acumulacion-1-logo-1.jpg"
+    },
+    {
+      "ocrResult": "Luis Vega Ramos\r\n",
+      "logoImg": "images/15-senadores-acumulacion-1-logo-2.jpg"
+    },
+    {
+      "ocrResult": "María De Lourdes\r\nSantiago\r\n",
+      "logoImg": "images/15-senadores-acumulacion-1-logo-3.jpg"
+    },
+    {
+      "ocrResult": "Ana Irma Rivera\r\nLassén",
+      "logoImg": "images/15-senadores-acumulacion-1-logo-4.jpg"
+    },
+    {
+      "ocrResult": "Joanne Rodríguez\r\nVeve\r\n",
+      "logoImg": "images/15-senadores-acumulacion-1-logo-5.jpg"
+    },
+    {
+      "ocrResult": "José Antonio Vargas\r\nVidot\r\n",
+      "logoImg": "images/15-senadores-acumulacion-1-logo-6.jpg"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Keren Riquelme\r\n",
+      "logoImg": "images/16-senadores-acumulacion-2-logo-1.jpg"
+    },
+    {
+      "ocrResult": "Aníbal José (Jossie)\r\nTorres\r\n",
+      "logoImg": "images/16-senadores-acumulacion-2-logo-2.jpg"
+    },
+    {
+      "ocrResult": "",
+      "logoImg": "images/16-senadores-acumulacion-2-logo-3.jpg"
+    },
+    {
+      "ocrResult": "Rafael Bernabe\r\n",
+      "logoImg": "images/16-senadores-acumulacion-2-logo-4.jpg"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Thomas Rivera Schatz\r\n",
+      "logoImg": "images/17-senadores-acumulacion-3-logo-1.jpg"
+    },
+    {
+      "ocrResult": "12\r\nJosé Luis Dalmau\r\nSantiago\r\n",
+      "logoImg": "images/17-senadores-acumulacion-3-logo-2.jpg"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "13.\r\nCarlos Rodríguez\r\nMateo\r\n",
+      "logoImg": "images/18-senadores-acumulacion-4-logo-1.jpg"
+    },
+    {
+      "ocrResult": "Brenda López De\r\n13.\r\nArrarás\r\n",
+      "logoImg": "images/18-senadores-acumulacion-4-logo-2.jpg"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "William Villafañe\r\n",
+      "logoImg": "images/19-senadores-acumulacion-5-logo-1.jpg"
+    },
+    {
+      "ocrResult": "2 Juan Zaragoza Gómez\r\n14.\r\n",
+      "logoImg": "images/19-senadores-acumulacion-5-logo-2.jpg"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "15\r\nItzamar Peña Ramírez\r\n",
+      "logoImg": "images/20-senadores-acumulacion-6-logo-1.jpg"
+    },
+    {
+      "ocrResult": "15\r\nAda Álvarez Conde\r\n",
+      "logoImg": "images/20-senadores-acumulacion-6-logo-2.jpg"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ]
+]

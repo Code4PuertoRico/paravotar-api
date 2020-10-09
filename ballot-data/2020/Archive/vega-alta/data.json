@@ -1,0 +1,218 @@
+[
+  [
+    {
+      "ocrResult": "PARTIDO NUEVO PROGRESISTA\r\n",
+      "logoImg": "images/1-partido-logo-1.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO POPULAR\r\nDEMOCRÁTICO\r\n",
+      "logoImg": "images/1-partido-logo-2.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO INDEPENDENTISTA\r\nPUERTORRIQUEÑO\r\n",
+      "logoImg": "images/1-partido-logo-3.jpg"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "María Vega\r\n",
+      "logoImg": "images/3-alcalde-logo-1.jpg"
+    },
+    {
+      "ocrResult": "Oscar (Can) Santiago\r\nMartínez\r\n",
+      "logoImg": "images/3-alcalde-logo-2.jpg"
+    },
+    {
+      "ocrResult": "Luis Felipe Mercado\r\n",
+      "logoImg": "images/3-alcalde-logo-3.jpg"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Marisol Natal Salgado\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nCarlos Candelaria\r\nSánchez\r\n"
+    },
+    {
+      "ocrResult": "Miguel Morales Reyes\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "2.\r\nJosé Ramón Rey Aulet\r\n"
+    },
+    {
+      "ocrResult": "Francisco (Paco)\r\n2.\r\nAponte\r\n"
+    },
+    {
+      "ocrResult": "2.\r\nMatilde Vicent\r\nHernández\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Lydia M Viñales\r\n3.\r\nMaysonet\r\n"
+    },
+    {
+      "ocrResult": "Brenda Luz Rubio\r\n3.\r\nMena\r\n"
+    },
+    {
+      "ocrResult": "3.\r\nLuis Adorno Natal\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Carmen María Navedo\r\n4.\r\nRosado\r\n"
+    },
+    {
+      "ocrResult": "José (Freddie)\r\n4.\r\nLaureano\r\n"
+    },
+    {
+      "ocrResult": "4.\r\nMaría Marzán\r\nConcepción\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "5.\r\nJosé M Díaz Dávila\r\n"
+    },
+    {
+      "ocrResult": "5.\r\nNilda González Pantoja\r\n"
+    },
+    {
+      "ocrResult": "5.\r\nRafael Letriz Crespo\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "6.\r\nCarlos A. Molina Dávila\r\n"
+    },
+    {
+      "ocrResult": "6.\r\nMiguel A. (Tono)\r\nArroyo\r\n"
+    },
+    {
+      "ocrResult": "Solcenit Adorno\r\n6.\r\nVargas\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "José R Arroyo De\r\nGracia\r\n"
+    },
+    {
+      "ocrResult": "7.\r\nPilar Rivera\r\n"
+    },
+    {
+      "ocrResult": "Gerónimo Concepción\r\n7.\r\nLaguer\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "8.\r\nRafael Rondon\r\n"
+    },
+    {
+      "ocrResult": "8.\r\nGuillermo Rosario\r\n"
+    },
+    {
+      "ocrResult": "Abigail Pantoja\r\n8.\r\nBermúdez\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Esteban Andres\r\n9.\r\nMartínez Pérez\r\n"
+    },
+    {
+      "ocrResult": "José (Chelo) Alamo\r\n9.\r\nArroyo\r\n"
+    },
+    {
+      "ocrResult": "Gamaliel Cardona\r\n9.\r\nSantana\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "10.\r\nLilliam Santana Barreto\r\n"
+    },
+    {
+      "ocrResult": "10.\r\nGenoveva Torres\r\nArroyo\r\n"
+    },
+    {
+      "ocrResult": "10.\r\nNoemí Carrero López\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Pacifico Robles\r\n11.\r\nAlbarran\r\n"
+    },
+    {
+      "ocrResult": "Carmen G. Bruno\r\n11.\r\nCabrera\r\n"
+    },
+    {
+      "ocrResult": "11.\r\nEliezer Ríos Velázquez\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ]
+]

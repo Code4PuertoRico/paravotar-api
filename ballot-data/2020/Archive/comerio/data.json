@@ -1,0 +1,265 @@
+[
+  [
+    {
+      "ocrResult": "PARTIDO NUEVO PROGRESISTA\r\n",
+      "logoImg": "images/1-partido-logo-1.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO POPULAR\r\nDEMOCRÁTICO\r\n",
+      "logoImg": "images/1-partido-logo-2.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO INDEPENDENTISTA\r\nPUERTORRIQUEÑO\r\n",
+      "logoImg": "images/1-partido-logo-3.jpg"
+    },
+    {
+      "ocrResult": "MOVIMIENTO VICTORIA\r\nCIUDADANA\r\n",
+      "logoImg": "images/1-partido-logo-4.jpg"
+    },
+    {
+      "ocrResult": "cóM0 VOTAR NOMINACIÓN DIRECTA\r\nEn esta columna puede votar por otra(s) persona(s) distinta(s) a las que\r\naparecen como candidatos(as) en columnas anteriores de esta\r\npapeleta. Para votar por G3(s) persona(s) de su preferencia, escriba su\r\nnombre completo en el encasillado de la columna de nominación drecta\r\nque corresponda a la candidatura y también debe hacer una Marca\r\nVálida dentro del rectángulo en blanco al lado de cada nombre escrito\r\nHOW TO VOTE FOR WRITE W CANDIDATES\r\nIrl this column yol,' can vote for another person(s) different from those\r\nlisted as candidates in the previous columns ofthis ballot. To vote forthe\r\nperson(s) of your choice, write their full name on the box ofthe write-in\r\ncolumn that corresponds to the candidacy, and you must also make a\r\nvalid mark vithin the blank rectangle next to gach vritten name.\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Dennis I Agosto\r\nVázquez\r\n",
+      "logoImg": "images/3-alcalde-logo-1.jpg"
+    },
+    {
+      "ocrResult": "José (Josian) Santiago\r\n",
+      "logoImg": "images/3-alcalde-logo-2.jpg"
+    },
+    {
+      "ocrResult": "Raúl Lemuel (Lemu)\r\nRivera Díaz\r\n",
+      "logoImg": "images/3-alcalde-logo-3.jpg"
+    },
+    {
+      "ocrResult": "Cristian González\r\n",
+      "logoImg": "images/3-alcalde-logo-4.jpg"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Randy Reyes Pimentel\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nJuan B. Padilla Cosme\r\n"
+    },
+    {
+      "ocrResult": "José Antonio Ortiz\r\n1.\r\nCruz\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nBetsy Lian Candelario\r\nCabrera\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "2.\r\nSol Edwin Berrios Febo\r\n"
+    },
+    {
+      "ocrResult": "José A. Rodríguez\r\n2.\r\nOtero\r\n"
+    },
+    {
+      "ocrResult": "2.\r\nJulio Maldonado\r\nRamos\r\n"
+    },
+    {
+      "ocrResult": "2.\r\nCarmelo Pérez Vega\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "3.\r\nJudith Alicea Ayala\r\n"
+    },
+    {
+      "ocrResult": "3.\r\nElba Emilia Martínez\r\nMeléndez\r\n"
+    },
+    {
+      "ocrResult": "3.\r\nDoris Díaz Figueroa\r\n"
+    },
+    {
+      "ocrResult": "Armando Luis Berríos\r\n3.\r\nOrtiz\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Lourdes E Sánchez\r\n4.\r\nCruz\r\n"
+    },
+    {
+      "ocrResult": "Mary Carmen\r\n4.\r\nRodríguez Alejandro\r\n"
+    },
+    {
+      "ocrResult": "4.\r\nJuan Bermúdez Ayala\r\n"
+    },
+    {
+      "ocrResult": "4.\r\nGénesis Rivera\r\nMeléndez\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "5.\r\nLuis Torres Cuevas\r\n"
+    },
+    {
+      "ocrResult": "5.\r\nCynthia B. García\r\nRivera\r\n"
+    },
+    {
+      "ocrResult": "Helda Liz Alicea\r\n5.\r\nFeliciano\r\n"
+    },
+    {
+      "ocrResult": "5.\r\nKeishla Juliann Ayala\r\nGuzmán\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "6.\r\nDary Vázquez Cosme\r\n"
+    },
+    {
+      "ocrResult": "6.\r\nDalila Santana Díaz\r\n"
+    },
+    {
+      "ocrResult": "6.\r\nCarlos Julián Colón\r\nLópez\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Luis Daniel Rodríguez\r\nCosme\r\n"
+    },
+    {
+      "ocrResult": "José (Tony) Flores\r\n7.\r\nGonzález\r\n"
+    },
+    {
+      "ocrResult": "Paola Amparo\r\n7.\r\nBermúdez Ayala\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Nilda Esther Santiago\r\n8.\r\nOrtiz\r\n"
+    },
+    {
+      "ocrResult": "Rafael A. García\r\n8.\r\nAcosta\r\n"
+    },
+    {
+      "ocrResult": "8.\r\nÁngel L. Morales\r\nOrtega\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Luis Andres Alicea\r\n9.\r\nMaldonado\r\n"
+    },
+    {
+      "ocrResult": "9.\r\nRaúl Figueroa Berríos\r\n"
+    },
+    {
+      "ocrResult": "Iris Dianne Falcón\r\n9.\r\nCabrera\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Leomar Agosto\r\n10.\r\nBermúdez\r\n"
+    },
+    {
+      "ocrResult": "10.\r\nMiguel (Papo Avión)\r\nFonseca\r\n"
+    },
+    {
+      "ocrResult": "10.\r\nYaxinailiz Ayala Alicea\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "11.\r\nMariluz Santos Soto\r\n"
+    },
+    {
+      "ocrResult": "Carmen N. Alvarado\r\n11.\r\nMalavé\r\n"
+    },
+    {
+      "ocrResult": "Germán Gadiel\r\n11.\r\nGonzález Bermúdez\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": "11.\r\n"
+    }
+  ]
+]

@@ -1,0 +1,218 @@
+[
+  [
+    {
+      "ocrResult": "PARTIDO NUEVO PROGRESISTA\r\n",
+      "logoImg": "images/1-partido-logo-1.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO POPULAR\r\nDEMOCRÁTICO\r\n",
+      "logoImg": "images/1-partido-logo-2.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO INDEPENDENTISTA\r\nPUERTORRIQUEÑO\r\n",
+      "logoImg": "images/1-partido-logo-3.jpg"
+    },
+    {
+      "ocrResult": "COMO VOTAR NOMINACIÓN DIRECTA\r\nEn esta columna puede votar por otra(s) persona(s) distinta(s) a las que\r\naparecen como candidatos(as) en columnas anteriores de esta\r\npapeleta. Para votar por persona(s) de su preferencia. escriba su\r\nnombre completo en el encasillado de la columna de nominación directa\r\nque corresponda a la candidatura y también debe hacer una Marca\r\nVálida dentro del rectángulo en blanco al lado de cada nombre escrito\r\nHOW TO VOTE FOR WRITE W CANDIDATES\r\nIn this column you can vote for another person(s) difterent from those\r\nlisted as candidates in the previous columns ofthis ballot To vote forthe\r\nperson(s) of your choice, write their full name on the box Ofthe Write-in\r\ncolumn that corresponds to the candidacy, and yol/ must also make a\r\nvalid mark w\\thin the blank rectangle next to gach written name.\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Noe Marcano Rivera\r\n",
+      "logoImg": "images/3-alcalde-logo-1.jpg"
+    },
+    {
+      "ocrResult": "Miraidaliz Rosario\r\nPagán\r\n",
+      "logoImg": "images/3-alcalde-logo-2.jpg"
+    },
+    {
+      "ocrResult": "Alexeis Quiñones\r\n",
+      "logoImg": "images/3-alcalde-logo-3.jpg"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Betzaida Luz Martínez\r\nFigueroa\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nMoisés Díaz Medina\r\n"
+    },
+    {
+      "ocrResult": "José M. Lugo\r\nQuiñones\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "2.\r\nLydia Ramos Escudero\r\n"
+    },
+    {
+      "ocrResult": "Lisnette Burgos\r\n2.\r\nSantiago\r\n"
+    },
+    {
+      "ocrResult": "José Francisco\r\n2.\r\nQuiñones Fuentes\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "3.\r\nNoelia Osorio\r\nMaldonado\r\n"
+    },
+    {
+      "ocrResult": "Carmelo Jr. Colón\r\n3.\r\nMendoza\r\n"
+    },
+    {
+      "ocrResult": "Mariana Del P.\r\n3.\r\nQuiñones Fuentes\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "4.\r\nJohanna Pérez\r\nMaldonado\r\n"
+    },
+    {
+      "ocrResult": "Oscar Jr. Cruz\r\n4.\r\nRodríguez\r\n"
+    },
+    {
+      "ocrResult": "Giovanni Montañez\r\n4.\r\nQuiñones\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Angélica Travieso\r\n5.\r\nSerrano\r\n"
+    },
+    {
+      "ocrResult": "5.\r\nElizabeth Rodríguez\r\nArriaga\r\n"
+    },
+    {
+      "ocrResult": "Francisco J. Meléndez\r\n5.\r\nQuiñones\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "6.\r\nLuis Antonio Velázquez\r\n"
+    },
+    {
+      "ocrResult": "Héctor Ismael Dávila\r\n6.\r\nRodríguez\r\n"
+    },
+    {
+      "ocrResult": "Julio O. Cordero\r\n6.\r\nSepúlveda\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "7.\r\nZuleika Díaz Reyes\r\n"
+    },
+    {
+      "ocrResult": "7.\r\nEdgardo Burgos Rivera\r\n"
+    },
+    {
+      "ocrResult": "7.\r\nPilar I. Quiñones\r\nFuentes\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Gilberto Hernández\r\n8.\r\nHuertas\r\n"
+    },
+    {
+      "ocrResult": "8.\r\nMaribel Ortiz Colón\r\n"
+    },
+    {
+      "ocrResult": "Lilia M. Quiñones\r\n8.\r\nFuentes\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "José (Tato) Rodríguez\r\n9.\r\nRivera\r\n"
+    },
+    {
+      "ocrResult": "Víctor Hugo Rivera\r\n9.\r\nGarcía\r\n"
+    },
+    {
+      "ocrResult": "Luis Faustino\r\n9.\r\nMeléndez Quiñones\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "10.\r\nRuth E Rivera\r\nGonzález\r\n"
+    },
+    {
+      "ocrResult": "10.\r\nVictoria Ruiz Cruz\r\n"
+    },
+    {
+      "ocrResult": "10.\r\nMariana Quiñones\r\nRosado\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "11.\r\nJosé Efraín Pérez Díaz\r\n"
+    },
+    {
+      "ocrResult": "Néstor Raúl Méndez\r\n11.\r\nTorres\r\n"
+    },
+    {
+      "ocrResult": "Aurelia E. Scott\r\n11.\r\nMontalvo\r\n"
+    },
+    {
+      "ocrResult": "11.\r\n"
+    }
+  ]
+]

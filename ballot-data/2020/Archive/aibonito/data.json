@@ -1,0 +1,265 @@
+[
+  [
+    {
+      "ocrResult": "PARTIDO NUEVO PROGRESISTA\r\n",
+      "logoImg": "images/1-partido-logo-1.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO POPULAR\r\nDEMOCRÁTICO\r\n",
+      "logoImg": "images/1-partido-logo-2.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO INDEPENDENTISTA\r\nPUERTORRIQUEÑO\r\n",
+      "logoImg": "images/1-partido-logo-3.jpg"
+    },
+    {
+      "ocrResult": "MOVIMIENTO VICTORIA\r\nCIUDADANA\r\n",
+      "logoImg": "images/1-partido-logo-4.jpg"
+    },
+    {
+      "ocrResult": "cóM0 VOTAR NOMINACIÓN DIRECTA\r\nEn esta columna puede votar por otra(s) persona(s) distinta(s) a las que\r\naparecen como candidatos(as) en columnas anteriores de esta\r\npapeleta. Para votar por G3(s) persona(s) de su preferencia, escriba su\r\nnombre completo en el encasillado de la columna de nominación drecta\r\nque corresponda a la candidatura y también debe hacer una Marca\r\nVálida dentro del rectángulo en blanco al lado de cada nombre escrito\r\nHOW TO VOTE FOR WRITE W CANDIDATES\r\nIrl this column yol,' can vote for another person(s) different from those\r\nlisted as candidates in the previous columns ofthis ballot. To vote forthe\r\nperson(s) of your choice, write their full name on the box ofthe write-in\r\ncolumn that corresponds to the candidacy, and you must also make a\r\nvalid mark vithin the blank rectangle next to gach vritten name.\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "William (Willie) Alicea\r\nPérez\r\n",
+      "logoImg": "images/3-alcalde-logo-1.jpg"
+    },
+    {
+      "ocrResult": "Tomás (Tommy)\r\nAlvarado\r\n",
+      "logoImg": "images/3-alcalde-logo-2.jpg"
+    },
+    {
+      "ocrResult": "Peter Mattina Canales\r\n",
+      "logoImg": "images/3-alcalde-logo-3.jpg"
+    },
+    {
+      "ocrResult": "",
+      "logoImg": "images/3-alcalde-logo-4.jpg"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Carmen M. Ayala\r\nRosado\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nCharmaine (Chary)\r\nSantos Vega\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nLuis Guzmán Rolón\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nAlejandro López Cruz\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Humberto Cruz\r\n2.\r\nFuentes\r\n"
+    },
+    {
+      "ocrResult": "Wanda Denice Rolón\r\n2.\r\nRodríguez\r\n"
+    },
+    {
+      "ocrResult": "2.\r\nMarielys Rosario\r\nVentura\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Gerardo Zayas\r\n3.\r\nMartínez\r\n"
+    },
+    {
+      "ocrResult": "3.\r\nMarta Díaz Soto\r\n"
+    },
+    {
+      "ocrResult": "3.\r\nLymari Collazo Reyes\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Ramón Meléndez\r\n4.\r\nNegrón\r\n"
+    },
+    {
+      "ocrResult": "Naishla Marie\r\n4.\r\nRodríguez Rivera\r\n"
+    },
+    {
+      "ocrResult": "José Agustín De La\r\n4.\r\nTexera Rojas\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "5.\r\nSantos Soliván Rolón\r\n"
+    },
+    {
+      "ocrResult": "Johaneliz González\r\n5.\r\nVelázquez\r\n"
+    },
+    {
+      "ocrResult": "Juan Alberto Collazo\r\n5.\r\nPagán\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "6.\r\nMiguel Ángel Bisbal\r\nVázquez\r\n"
+    },
+    {
+      "ocrResult": "Carlos Francisco\r\n6.\r\nAlsina Rivera\r\n"
+    },
+    {
+      "ocrResult": "6.\r\nMarisela Carbonell\r\nCalero\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Noel (Caculito)\r\nMorales Rivera\r\n"
+    },
+    {
+      "ocrResult": "María M. Santiago\r\n7.\r\nHernández\r\n"
+    },
+    {
+      "ocrResult": "7.\r\nLizzette Collazo Reyes\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Marta V González\r\n8.\r\nRodríguez\r\n"
+    },
+    {
+      "ocrResult": "Héctor Juan Fuentes\r\n8.\r\nColón\r\n"
+    },
+    {
+      "ocrResult": "8.\r\nEfraín Rivera Ortiz\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "María Lucía Colón\r\n9.\r\nBerríos\r\n"
+    },
+    {
+      "ocrResult": "9.\r\nLizmarie Díaz Morales\r\n"
+    },
+    {
+      "ocrResult": "9.\r\nJaime Rivera Ortiz\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "10.\r\nJosé (Gaby) Fonseca\r\n"
+    },
+    {
+      "ocrResult": "10.\r\nLydia Esther Espada\r\nOrtíz\r\n"
+    },
+    {
+      "ocrResult": "Tatiana Enid Méndez\r\n10.\r\nVelázquez\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Carlos Amilcar Green\r\n11.\r\nMorales\r\n"
+    },
+    {
+      "ocrResult": "Héctor (Bebo)\r\n11.\r\nSantiago Vega\r\n"
+    },
+    {
+      "ocrResult": "11.\r\nEduardo Vera Pérez\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": "11.\r\n"
+    }
+  ]
+]

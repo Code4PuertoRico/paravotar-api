@@ -1,0 +1,120 @@
+[
+  [
+    {
+      "ocrResult": "PARTIDO NUEVO PROGRESISTA\r\n",
+      "logoImg": "images/1-partido-logo-1.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO POPULAR\r\nDEMOCRÁTICO\r\n",
+      "logoImg": "images/1-partido-logo-2.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO INDEPENDENTISTA\r\nPUERTORRIQUEÑO\r\n",
+      "logoImg": "images/1-partido-logo-3.jpg"
+    },
+    {
+      "ocrResult": "COMO VOTAR NOMINACIÓN DIRECTA\r\nEn esta columna puede votar por otra(s) persona(s) distinta(s) a las que\r\naparecen como candidatos(as) en columnas anteriores de esta\r\npapeleta, Para votar por persona(s) de su preferencia. escriba su\r\nnombre completo en el encasalado de la columna de nominación directa\r\nque corresponda a la candidatura y también debe hacer una Marca\r\nVálida dentro del rectángulo en blanco al lado de cada nombre escrito.\r\nHOW TO VOTE FOR WRITE W CANDIDATES\r\nIrl this column you can vote for another person(s) difterent from those\r\nlisted as candidates in the previous columns ofthis ballot To vote forthe\r\nperson(s) of your choice, write their full name on the box Of the Write-in\r\ncolumn that corresponds to the candidacy, and you must also make a\r\nvalid mark within the Nank rectangle next gach written name.\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Edilberto (Junito)\r\nRomero\r\n",
+      "logoImg": "images/3-alcalde-logo-1.jpg"
+    },
+    {
+      "ocrResult": "Iván Solís Bermúdez\r\n",
+      "logoImg": "images/3-alcalde-logo-2.jpg"
+    },
+    {
+      "ocrResult": "Dolly Camareno Díaz\r\n",
+      "logoImg": "images/3-alcalde-logo-3.jpg"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Sandra Rivera\r\nBermúdez\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nNéstor H. González\r\npeña\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nJorge Luis Rivera\r\nMunet\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "2.\r\nMisael Feliciano Monell\r\n"
+    },
+    {
+      "ocrResult": "2.\r\nJosé Munet Solís\r\n"
+    },
+    {
+      "ocrResult": "2.\r\nDavid Silva Vázquez\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "3.\r\nJulio Munet Caraballo\r\n"
+    },
+    {
+      "ocrResult": "3.\r\nRubén Vargas Padín\r\n"
+    },
+    {
+      "ocrResult": "Jacinto A. Jiménez\r\n3.\r\nCarlo\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Alexander Hernández\r\n4.\r\nOrtiz\r\n"
+    },
+    {
+      "ocrResult": "Luis (Pinpin) Rivera\r\n4.\r\nSoto\r\n"
+    },
+    {
+      "ocrResult": "4.\r\nSuzanne Hebert Jomp\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ]
+]

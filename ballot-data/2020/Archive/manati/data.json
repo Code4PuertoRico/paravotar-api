@@ -1,0 +1,299 @@
+[
+  [
+    {
+      "ocrResult": "PARTIDO NUEVO PROGRESISTA\r\n",
+      "logoImg": "images/1-partido-logo-1.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO POPULAR\r\nDEMOCRÁTICO\r\n",
+      "logoImg": "images/1-partido-logo-2.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO INDEPENDENTISTA\r\nPUERTORRIQUEÑO\r\n",
+      "logoImg": "images/1-partido-logo-3.jpg"
+    },
+    {
+      "ocrResult": "MOVIMIENTO VICTORIA\r\nCIUDADANA\r\n",
+      "logoImg": "images/1-partido-logo-4.jpg"
+    },
+    {
+      "ocrResult": "cóM0 VOTAR NOMINACIÓN DIRECTA\r\nEn esta columna puede votar por otra(s) persona(s) distinta(s) a las que\r\naparecen como candidatos(as) en columnas anteriores de esta\r\npapeleta. Para votar por G3(s) persona(s) de su preferencia, escriba su\r\nnombre completo en el encasillado de la columna de nominación drecta\r\nque corresponda a la candidatura y también debe hacer una Marca\r\nVálida dentro del rectángulo en blanco al lado de cada nombre escrito\r\nHOW TO VOTE FOR WRITE W CANDIDATES\r\nIrl this column yol,' can vote for another person(s) different from those\r\nlisted as candidates in the previous columns ofthis ballot. To vote forthe\r\nperson(s) of your choice, write their full name on the box ofthe write-in\r\ncolumn that corresponds to the candidacy, and you must also make a\r\nvalid mark vithin the blank rectangle next to gach vritten name.\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "José Sánchez\r\n",
+      "logoImg": "images/3-alcalde-logo-1.jpg"
+    },
+    {
+      "ocrResult": "Bienvenido (Beny)\r\nCollazo\r\n",
+      "logoImg": "images/3-alcalde-logo-2.jpg"
+    },
+    {
+      "ocrResult": "Eric Martínez Martínez\r\n",
+      "logoImg": "images/3-alcalde-logo-3.jpg"
+    },
+    {
+      "ocrResult": "",
+      "logoImg": "images/3-alcalde-logo-4.jpg"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Jerry Zahamir Nieves\r\nRosario\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nAna Gloria Ayala Ortiz\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nBlanca Febles Valentín\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nAnnie Estades\r\nHernández\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Glorimar Falconi\r\n2.\r\nArroyo\r\n"
+    },
+    {
+      "ocrResult": "Christian Rosen\r\n2.\r\nMarrero Ortega\r\n"
+    },
+    {
+      "ocrResult": "Francis Emmanuelli\r\n2.\r\nCosme\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Juan Alejandro\r\n3.\r\nAmador Trinidad\r\n"
+    },
+    {
+      "ocrResult": "3.\r\nSantiago Lorán\r\nHernández\r\n"
+    },
+    {
+      "ocrResult": "3.\r\nElia Valentín Morales\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "4.\r\nVito Manuel Castro\r\n"
+    },
+    {
+      "ocrResult": "Héctor Luis Rodríguez\r\n4.\r\nRivera\r\n"
+    },
+    {
+      "ocrResult": "4.\r\nAna Landrón Vega\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "5.\r\nMaría A. Otero (Mao)\r\n"
+    },
+    {
+      "ocrResult": "Jonathan Jaime\r\n5.\r\nMendoza Schelmetty\r\n"
+    },
+    {
+      "ocrResult": "5.\r\nMaría M. Vega Rivera\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Carlos Efraín Rivera\r\n6.\r\nArroyo\r\n"
+    },
+    {
+      "ocrResult": "Francisco Ocasio\r\n6.\r\nCancel\r\n"
+    },
+    {
+      "ocrResult": "6.\r\nElba Y. Torres Vega\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Ramon Rosario Rivera\r\n(Papo)\r\n"
+    },
+    {
+      "ocrResult": "7.\r\nKathye Nadal Martínez\r\n"
+    },
+    {
+      "ocrResult": "Juan Antonio Alicea\r\n7.\r\nTorres\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "8.\r\nMaría C Robles Torres\r\n"
+    },
+    {
+      "ocrResult": "8.\r\nFelipe Rivera Vidot\r\n"
+    },
+    {
+      "ocrResult": "8.\r\nCarmen Vega Rivera\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Gregorio Dávila\r\n9.\r\nOliveras (Goyo)\r\n"
+    },
+    {
+      "ocrResult": "9.\r\nWilberto Rivera\r\nValderrama\r\n"
+    },
+    {
+      "ocrResult": "William Landrón\r\n9.\r\nGonzález\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "10.\r\nMelvin Vega\r\n"
+    },
+    {
+      "ocrResult": "10.\r\nMiguel Ángel\r\nConcepción Santana\r\n"
+    },
+    {
+      "ocrResult": "10.\r\nSuannete Otero Torres\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Heriberto López\r\n11.\r\nGonzalez\r\n"
+    },
+    {
+      "ocrResult": "Luis Omar Trinidad\r\n11.\r\nRosa\r\n"
+    },
+    {
+      "ocrResult": "Jorge Luis Núñez\r\n11.\r\nMaysonet\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": "11.\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "12.\r\nCándida Sánchez Soto\r\n"
+    },
+    {
+      "ocrResult": "Víctor M. Morales\r\n12.\r\nLarregui\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": "12.\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "13.\r\nIsrael Malavé (Malavé)\r\n"
+    },
+    {
+      "ocrResult": "13.\r\nRuth Damaris\r\nSantiago Meléndez\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": "13.\r\n"
+    }
+  ]
+]

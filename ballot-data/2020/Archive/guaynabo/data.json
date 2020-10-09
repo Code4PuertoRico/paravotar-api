@@ -1,0 +1,352 @@
+[
+  [
+    {
+      "ocrResult": "PARTIDO NUEVO PROGRESISTA\r\n",
+      "logoImg": "images/1-partido-logo-1.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO POPULAR\r\nDEMOCRÁTICO\r\n",
+      "logoImg": "images/1-partido-logo-2.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO INDEPENDENTISTA\r\nPUERTORRIQUEÑO\r\n",
+      "logoImg": "images/1-partido-logo-3.jpg"
+    },
+    {
+      "ocrResult": "MOVIMIENTO VICTORIA\r\nCIUDADANA\r\n",
+      "logoImg": "images/1-partido-logo-4.jpg"
+    },
+    {
+      "ocrResult": "",
+      "logoImg": "images/1-partido-logo-5.jpg"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Ángel Pérez Otero\r\n",
+      "logoImg": "images/3-alcalde-logo-1.jpg"
+    },
+    {
+      "ocrResult": "Elba Beatriz Rivera\r\n",
+      "logoImg": "images/3-alcalde-logo-2.jpg"
+    },
+    {
+      "ocrResult": "Jaime Alonso Sánchez\r\n",
+      "logoImg": "images/3-alcalde-logo-3.jpg"
+    },
+    {
+      "ocrResult": "",
+      "logoImg": "images/3-alcalde-logo-4.jpg"
+    },
+    {
+      "ocrResult": "",
+      "logoImg": "images/3-alcalde-logo-5.jpg"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Carlos H Martínez\r\nPérez\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nJeshuan Torres Ramos\r\n"
+    },
+    {
+      "ocrResult": "José René Muñiz\r\nMenéndez\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nCristian O. Rosa\r\nFuentes\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nHéctor M. Landrau\r\nClemente\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Roberto Lefranc\r\n2.\r\nFortuño\r\n"
+    },
+    {
+      "ocrResult": "2.\r\nNiurka Del Valle Colón\r\n"
+    },
+    {
+      "ocrResult": "2.\r\nCarlos Calero López\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "3.\r\nFélix A Méndez\r\nGonzález\r\n"
+    },
+    {
+      "ocrResult": "3.\r\nNoel David Berrios\r\nRodríguez\r\n"
+    },
+    {
+      "ocrResult": "Gabriela M. Alonso\r\n3.\r\nRibas\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "4.\r\nMiguel Negrón Rivera\r\n"
+    },
+    {
+      "ocrResult": "4.\r\nOmar Rafael Llopiz\r\nBurgos\r\n"
+    },
+    {
+      "ocrResult": "4.\r\nAda N. Reyes Jiménez\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "5.\r\nÁngel Morey Noble\r\n"
+    },
+    {
+      "ocrResult": "Mariana Ange Castro\r\n5.\r\nMaldonado\r\n"
+    },
+    {
+      "ocrResult": "Marta M. Mejía\r\n5.\r\nCastañer\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "6.\r\nJorge R. Marquina\r\n"
+    },
+    {
+      "ocrResult": "Antonio Rivera\r\n6.\r\nRodríguez\r\n"
+    },
+    {
+      "ocrResult": "6.\r\nJosé A. Ribas Reyes\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "María Elena Vázquez\r\n7.\r\nGraziani\r\n"
+    },
+    {
+      "ocrResult": "7.\r\nIvonne Villafañe\r\nCandelas\r\n"
+    },
+    {
+      "ocrResult": "7.\r\nAlexandra Mulero Ortiz\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "8.\r\nLuis Carlos\r\nMaldonado Padilla\r\n"
+    },
+    {
+      "ocrResult": "8.\r\nSandra Del Valle Colón\r\n"
+    },
+    {
+      "ocrResult": "Pamela B. Morales\r\n8.\r\nMuñiz\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Javier Capestany\r\nFigueroa\r\n"
+    },
+    {
+      "ocrResult": "9.\r\nJosé Méndez Cruz\r\n"
+    },
+    {
+      "ocrResult": "Rafael L. Rivera\r\n9.\r\nGonzález\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "10.\r\nMabel Vélez Romero\r\n"
+    },
+    {
+      "ocrResult": "Rufo E. González\r\n10.\r\nRosario\r\n"
+    },
+    {
+      "ocrResult": "10.\r\nGustavo A. Meléndez\r\nÁvila\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "11.\r\nNatalia Rosado Lebrón\r\n"
+    },
+    {
+      "ocrResult": "11.\r\nJulián De Jesús Cruz\r\nEnríquez\r\n"
+    },
+    {
+      "ocrResult": "Bertis María Delgado\r\n11.\r\nFiqueroa\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "12.\r\nJulio (Pipe) Abreu\r\n"
+    },
+    {
+      "ocrResult": "12.\r\nDoris M. Morales Doble\r\n"
+    },
+    {
+      "ocrResult": "Simón E. Morales\r\n12.\r\nGarcía\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "| 13.\r\nGuillermo Urbina\r\nMachuca\r\n"
+    },
+    {
+      "ocrResult": "Marisol Velázquez\r\n13.\r\nMorganti\r\n"
+    },
+    {
+      "ocrResult": "Kuay Chan Rivera\r\n13.\r\nSantiago\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ]
+]

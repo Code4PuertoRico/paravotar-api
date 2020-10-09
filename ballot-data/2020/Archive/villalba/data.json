@@ -1,0 +1,265 @@
+[
+  [
+    {
+      "ocrResult": "PARTIDO NUEVO PROGRESISTA\r\n",
+      "logoImg": "images/1-partido-logo-1.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO POPULAR\r\nDEMOCRÁTICO\r\n",
+      "logoImg": "images/1-partido-logo-2.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO INDEPENDENTISTA\r\nPUERTORRIQUEÑO\r\n",
+      "logoImg": "images/1-partido-logo-3.jpg"
+    },
+    {
+      "ocrResult": "MOVIMIENTO VICTORIA\r\nCIUDADANA\r\n",
+      "logoImg": "images/1-partido-logo-4.jpg"
+    },
+    {
+      "ocrResult": "cóM0 VOTAR NOMINACIÓN DIRECTA\r\nEn esta columna puede votar por otra(s) persona(s) distinta(s) a las que\r\naparecen como candidatos(as) en columnas anteriores de esta\r\npapeleta. Para votar por G3(s) persona(s) de su preferencia, escriba su\r\nnombre completo en el encasillado de la columna de nominación drecta\r\nque corresponda a la candidatura y también debe hacer una Marca\r\nVálida dentro del rectángulo en blanco al lado de cada nombre escrito\r\nHOW TO VOTE FOR WRITE W CANDIDATES\r\nIrl this column yol,' can vote for another person(s) different from those\r\nlisted as candidates in the previous columns ofthis ballot. To vote forthe\r\nperson(s) of your choice, write their full name on the box ofthe write-in\r\ncolumn that corresponds to the candidacy, and you must also make a\r\nvalid mark vithin the blank rectangle next to gach vritten name.\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Guillermo Irizarry\r\nRodríguez\r\n",
+      "logoImg": "images/3-alcalde-logo-1.jpg"
+    },
+    {
+      "ocrResult": "Luis Javier (Javy)\r\nHernández Ortiz\r\n",
+      "logoImg": "images/3-alcalde-logo-2.jpg"
+    },
+    {
+      "ocrResult": "María Yadira Díaz\r\nSantos\r\n",
+      "logoImg": "images/3-alcalde-logo-3.jpg"
+    },
+    {
+      "ocrResult": "",
+      "logoImg": "images/3-alcalde-logo-4.jpg"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Luis (Luisito) Colón\r\nNazario\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nEduardo Ortiz Laboy\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nMiguel Alvarado\r\nGuzmán\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nHéctor Rosario Molina\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "2.\r\nKeyla Enid Torres\r\nSantos\r\n"
+    },
+    {
+      "ocrResult": "Jesús (Chui)\r\n2.\r\nHernández Arroyo\r\n"
+    },
+    {
+      "ocrResult": "María Alejandra\r\n2.\r\nCorales Díaz\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Jesús (Chu) Morales\r\n3.\r\nNegrón\r\n"
+    },
+    {
+      "ocrResult": "3.\r\nÁngeles S. Bonilla\r\nOrtiz\r\n"
+    },
+    {
+      "ocrResult": "Neisha Vázquez\r\n3.\r\nMuñoz\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "4.\r\nTina M Ramos Tracy\r\n"
+    },
+    {
+      "ocrResult": "4.\r\nNilsa l. Cintrón\r\nSantiago\r\n"
+    },
+    {
+      "ocrResult": "4.\r\nMaribel Rosado Garay\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Heriberto (Jungo)\r\n5.\r\nCosme Rivera\r\n"
+    },
+    {
+      "ocrResult": "5.\r\nJacqueline Taronji\r\nTorres\r\n"
+    },
+    {
+      "ocrResult": "Alejandra María\r\n5.\r\nDelgado Pérez\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Carlos Joel Colón\r\n6.\r\nColón\r\n"
+    },
+    {
+      "ocrResult": "6.\r\nAntonio Cruz Roche\r\n"
+    },
+    {
+      "ocrResult": "6.\r\nReynaldo Ortiz Torres\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Victor R. Santana\r\nRodríguez\r\n"
+    },
+    {
+      "ocrResult": "Jaime E. López\r\n7.\r\nAlvarado\r\n"
+    },
+    {
+      "ocrResult": "Elba Lourdes Pérez\r\n7.\r\nDíaz\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Liza María Pagán\r\n8.\r\nMeléndez\r\n"
+    },
+    {
+      "ocrResult": "Yetzaira Echevarría\r\n8.\r\nEchevarría\r\n"
+    },
+    {
+      "ocrResult": "8.\r\nGil Pérez Ortiz\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "9.\r\nJesmarie Díaz Otero\r\n"
+    },
+    {
+      "ocrResult": "Fabiola Marie Molina\r\n9.\r\nSantiago\r\n"
+    },
+    {
+      "ocrResult": "9.\r\nIván Rivera Rivera\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "10.\r\nGilmarie Santiago\r\nNegrón\r\n"
+    },
+    {
+      "ocrResult": "10.\r\nFélix Raúl (Raulie)\r\nSantiago Rivera\r\n"
+    },
+    {
+      "ocrResult": "10.\r\nJorge Ocasio Sánchez\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "11.\r\nKaren Irizarry Torres\r\n"
+    },
+    {
+      "ocrResult": "Julio César López\r\n11.\r\nSantiago\r\n"
+    },
+    {
+      "ocrResult": "11.\r\nJorge Ocasio Colón\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": "11.\r\n"
+    }
+  ]
+]

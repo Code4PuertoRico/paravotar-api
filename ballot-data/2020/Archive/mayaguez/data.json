@@ -1,0 +1,299 @@
+[
+  [
+    {
+      "ocrResult": "PARTIDO NUEVO PROGRESISTA\r\n",
+      "logoImg": "images/1-partido-logo-1.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO POPULAR\r\nDEMOCRÁTICO\r\n",
+      "logoImg": "images/1-partido-logo-2.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO INDEPENDENTISTA\r\nPUERTORRIQUEÑO\r\n",
+      "logoImg": "images/1-partido-logo-3.jpg"
+    },
+    {
+      "ocrResult": "MOVIMIENTO VICTORIA\r\nCIUDADANA\r\n",
+      "logoImg": "images/1-partido-logo-4.jpg"
+    },
+    {
+      "ocrResult": "COMO VOTAR NOMINACIÓN DIRECTA\r\nEn esta columna puede votar por otra(s) persona(s) distinta(s) a las que\r\naparecen como candidatos(as) en columnas anteriores de esta\r\npapeleta. Para votar por persona(s) de su preferencia, escriba su\r\nnombre completo en el encasillado de la columna de nominación drecta\r\nque corresponda a la candidatura y también debe hacer una Marca\r\nVálida dentro del rectángulo en blanco al lado de cada nombre escrito.\r\nHOW TO VOTE FOR WRITE W CANDIDATES\r\nIn this column YOL,' can vote for another person(s) different from those\r\nlisted as candidates in the previous columns ofthis ballot. ro vote forthe\r\nperson(s) of your choice, write their full name on the box ofthe write-in\r\ncolumn that corresponds to the candidacy, and You must also make a\r\nvalid mark vithin the blank reciangle next to gach Mitten name.\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Tania Lugo López\r\n",
+      "logoImg": "images/3-alcalde-logo-1.jpg"
+    },
+    {
+      "ocrResult": "José Guillermo\r\n(Guillito) Rodríguez\r\n",
+      "logoImg": "images/3-alcalde-logo-2.jpg"
+    },
+    {
+      "ocrResult": "Orlando Ruiz Pesante\r\n",
+      "logoImg": "images/3-alcalde-logo-3.jpg"
+    },
+    {
+      "ocrResult": "",
+      "logoImg": "images/3-alcalde-logo-4.jpg"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Arcenette Crespo\r\nMuñoz\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nPura Vincenty Pagán\r\n"
+    },
+    {
+      "ocrResult": "Camilly Azize Álvarez\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nReinaldo Rosado Silva\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "2.\r\nFélix Aguilar Morales\r\n"
+    },
+    {
+      "ocrResult": "2.\r\nDemetrio Madera Ruiz\r\n"
+    },
+    {
+      "ocrResult": "2.\r\nJoneth Jerrald\r\nRodríguez Cajigas\r\n"
+    },
+    {
+      "ocrResult": "2.\r\nWalter García\r\nRodríguez\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "3.\r\nArnaldo (Bambi)\r\nFerrer López'\r\n"
+    },
+    {
+      "ocrResult": "3.\r\nAugusto López\r\nSerrano\r\n"
+    },
+    {
+      "ocrResult": "Japhet Alexis Rivera\r\n3.\r\nPesante\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "4.\r\nMaritza Rosas Rojas\r\n"
+    },
+    {
+      "ocrResult": "4.\r\nManuel Pérez\r\nSotomayor\r\n"
+    },
+    {
+      "ocrResult": "4.\r\nAstrid Suárez Ortiz\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Herbert Edwin Ojeda\r\n5.\r\nRodríguez\r\n"
+    },
+    {
+      "ocrResult": "5.\r\nNéstor J. Cortina\r\nAlicea\r\n"
+    },
+    {
+      "ocrResult": "5.\r\nRosa F. Martínez\r\nCruzado\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Sonia Rodríguez\r\n6.\r\nDávila\r\n"
+    },
+    {
+      "ocrResult": "6.\r\nAlfredo Irizarry Martell\r\n"
+    },
+    {
+      "ocrResult": "Luis Daniel Vélez\r\n6.\r\nMarrero\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Betania Feliciano\r\n7.\r\nCordero\r\n"
+    },
+    {
+      "ocrResult": "Elsie María González\r\n7.\r\nAcevedo\r\n"
+    },
+    {
+      "ocrResult": "7.\r\nRaquel Bonilla Ortiz\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "8.\r\nIsrael Forestier Fradera\r\n"
+    },
+    {
+      "ocrResult": "Lissette Rodríguez\r\n8.\r\nMateo\r\n"
+    },
+    {
+      "ocrResult": "María Jesús\r\n8.\r\nRodríguez Trigo\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "9.\r\nMaría Matos Cardona\r\n"
+    },
+    {
+      "ocrResult": "9.\r\nNelson Valle Campos\r\n"
+    },
+    {
+      "ocrResult": "María De Los A.\r\n9.\r\nCajigas Nieto\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "10.\r\nVanessa Martínez\r\nMartínez\r\n"
+    },
+    {
+      "ocrResult": "10.\r\nCarmen A. Vega\r\nOlivencia\r\n"
+    },
+    {
+      "ocrResult": "10.\r\nUbaldo Soto Miranda\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "11.\r\nAlberto Trabal Alicea\r\n"
+    },
+    {
+      "ocrResult": "11.\r\nAdrián Cruz Ros\r\n"
+    },
+    {
+      "ocrResult": "Francisco J.\r\n11.\r\nBartolomei Crespo\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": "11.\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Magaly López\r\n12.\r\nCaraballo\r\n"
+    },
+    {
+      "ocrResult": "12.\r\nAda Ruiz Casiano\r\n"
+    },
+    {
+      "ocrResult": "Emmanuelle González\r\n12.\r\nRosa\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": "12.\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "13.\r\nMiguel J Santiago\r\nIrizarry\r\n"
+    },
+    {
+      "ocrResult": "13.\r\nVíctor A. Vélez\r\nRodríguez\r\n"
+    },
+    {
+      "ocrResult": "Josefina Lamboy\r\n13.\r\nIrizarry\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": "13.\r\n"
+    }
+  ]
+]

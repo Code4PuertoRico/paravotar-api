@@ -1,0 +1,231 @@
+[
+  [
+    {
+      "ocrResult": "PARTIDO NUEVO PROGRESISTA\r\n",
+      "logoImg": "images/1-partido-logo-1.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO POPULAR\r\nDEMOCRÁTICO\r\n",
+      "logoImg": "images/1-partido-logo-2.jpg"
+    },
+    {
+      "ocrResult": "PARTIDO INDEPENDENTISTA\r\nPUERTORRIQUEÑO\r\n",
+      "logoImg": "images/1-partido-logo-3.jpg"
+    },
+    {
+      "ocrResult": "MOVIMIENTO VICTORIA\r\nCIUDADANA\r\n",
+      "logoImg": "images/1-partido-logo-4.jpg"
+    },
+    {
+      "ocrResult": "cóM0 VOTAR NOMINACIÓN DIRECTA\r\nEn esta columna puede votar por otra(s) persona(s) distinta(s) a las que\r\naparecen como candidatos(as) en columnas anteriores de esta\r\npapeleta. Para votar por G3(s) persona(s) de su preferencia, escriba su\r\nnombre completo en el encasillado de la columna de nominación drecta\r\nque corresponda a la candidatura y también debe hacer una Marca\r\nVálida dentro del rectángulo en blanco al lado de cada nombre escrito\r\nHOW TO VOTE FOR WRITE W CANDIDATES\r\nIrl this column yol,' can vote for another person(s) different from those\r\nlisted as candidates in the previous columns ofthis ballot. To vote forthe\r\nperson(s) of Your choice, write their full name on the box ofthe write-in\r\ncolumn that corresponds to the candidacy, and You must also make a\r\nvalid mark vithin the blank rectangle next to gach vritten name.\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    },
+    {
+      "ocrResult": "ALCALDE\r\nMAYOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "9\r\nJosué Carlos Moreno\r\nRivera\r\n",
+      "logoImg": "images/3-alcalde-logo-1.jpg"
+    },
+    {
+      "ocrResult": "Carlos D. (Carlitos)\r\nLópez Bonilla\r\n",
+      "logoImg": "images/3-alcalde-logo-2.jpg"
+    },
+    {
+      "ocrResult": "Rogelio Bonet Aybar\r\n",
+      "logoImg": "images/3-alcalde-logo-3.jpg"
+    },
+    {
+      "ocrResult": "Enid Señeriz Ortiz\r\n",
+      "logoImg": "images/3-alcalde-logo-4.jpg"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    },
+    {
+      "ocrResult": "LEGISLADOR MUNICIPAL\r\nMUNICIPAL LEGISLATOR\r\n"
+    }
+  ],
+  [
+    {
+      "ocrResult": "Roberto (Jr.) Feliciano\r\nLorenzo\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nHéctor Vega Amaez\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nBethzaida Bonet Tirado\r\n"
+    },
+    {
+      "ocrResult": "1.\r\nMyriam Pérez Cruz\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Tatiana Marie Pérez\r\n2.\r\nMuñoz\r\n"
+    },
+    {
+      "ocrResult": "2.\r\nCarlos R. López Soto\r\n"
+    },
+    {
+      "ocrResult": "Alexis Orlando Silva\r\n2.\r\nBonet\r\n"
+    },
+    {
+      "ocrResult": "2.\r\nAndrés Romeu\r\nCotchett\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Carlos (Pirulo) Ramos\r\n3.\r\nMartínez\r\n"
+    },
+    {
+      "ocrResult": "María E. Vargas\r\n3.\r\nVargas\r\n"
+    },
+    {
+      "ocrResult": "3.\r\nOmar Bonet Tirado\r\n"
+    },
+    {
+      "ocrResult": "Stephanie Soler\r\n3.\r\nMartínez\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "María (Luly) Méndez\r\n4.\r\nCaro\r\n"
+    },
+    {
+      "ocrResult": "4.\r\nNelson Rivera Ruiz\r\n"
+    },
+    {
+      "ocrResult": "Carmen M. García\r\n4.\r\nFigueroa\r\n"
+    },
+    {
+      "ocrResult": "4.\r\nLuis Eugenio Torres\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "5.\r\nHéctor López Cardona\r\n"
+    },
+    {
+      "ocrResult": "5.\r\nRaúl Feliciano Muñoz\r\n"
+    },
+    {
+      "ocrResult": "Lucero Del Mar Silva\r\n5.\r\nBonet\r\n"
+    },
+    {
+      "ocrResult": "Margarita Fernández\r\n5.\r\nVivo\r\n"
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "6.\r\nOscar Soto Rodríguez\r\n"
+    },
+    {
+      "ocrResult": "6.\r\nWilliam Perea Ruiz\r\n"
+    },
+    {
+      "ocrResult": "6.\r\nDoel Bonet Tirado\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Rodney Pérez León\r\n"
+    },
+    {
+      "ocrResult": "7.\r\nJuan Ruiz Soto\r\n"
+    },
+    {
+      "ocrResult": "Diego Alejandro Silva\r\n7.\r\nBonet\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Carlos Alberto\r\n8.\r\nFigueroa Méndez\r\n"
+    },
+    {
+      "ocrResult": "8.\r\nJuan González Carrero\r\n"
+    },
+    {
+      "ocrResult": "Ana Hilda Tirado\r\n8.\r\nRivera\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ],
+  [
+    {
+      "ocrResult": "Héctor Enrique Font\r\n9.\r\nMontalvo\r\n"
+    },
+    {
+      "ocrResult": "9.\r\nHéctor R. Caro Noriega\r\n"
+    },
+    {
+      "ocrResult": "9.\r\nOrlando Silva Badillo\r\n"
+    },
+    {
+      "ocrResult": ""
+    },
+    {
+      "ocrResult": ""
+    }
+  ]
+]
