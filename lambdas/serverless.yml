@@ -129,7 +129,17 @@ functions:
       - http:
           path: /ballots/all
           method: get
-          
+  
+  voterCenter:
+    handler: centros-de-votacion.voterCenter
+    memorySize: 1536MB
+    timeout: 30
+    environment:
+      DEBUG: true
+    events:
+      - http:
+          path: /voterCenter
+          method: get
 
   createBallotTask:
     handler: generateBallot.createBallotTask
