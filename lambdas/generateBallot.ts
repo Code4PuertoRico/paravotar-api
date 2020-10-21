@@ -4,7 +4,6 @@ import cors from "@middy/http-cors";
 import httpErrorHandler from "@middy/http-error-handler";
 
 import _ from "lodash";
-import AWS from "aws-sdk";
 import {nanoid} from 'nanoid';
 
 import { S3, SQS } from './lib/aws';
@@ -13,10 +12,10 @@ import generateBallotPdf from './ballot-generator/generate-ballot-pdf';
 import uploadBallot from './ballot-generator/upload-ballot';
 import { BUCKET_NAME } from "./constants";
 
-async function createTask(uuid: string, votes: string) {
+async function createTask(uuid: string, votes: string, ballotType: string, ballotPath: string) {
   return new Promise((resolve, reject) => {
     SQS.sendMessage({
-      MessageBody: JSON.stringify({ uuid, votes }),
+      MessageBody: JSON.stringify({ uuid, votes, ballotPath, ballotType }),
       QueueUrl: 'https://sqs.us-east-1.amazonaws.com/214416850928/GenerateBallotQueue'
     }, (err, data) => {
       if (err) {
@@ -32,20 +31,20 @@ const createBallotGenerationTask = async (event: any) => {
   try {
     const reqBody = JSON.parse(_.get(event, 'body', null));
     const votes = _.get(reqBody, "votes", null);
+    const ballotType = _.get(reqBody, "ballotType", null);
+    const ballotPath = _.get(reqBody, "ballotPath", null);
 
-    console.log(AWS.config);
-
-    if (!votes) {
+    if (!votes || !ballotPath || !ballotType) {
       return {
         statusCode: 400,
-        body: JSON.stringify({ error: "invalid or missing votes" }),
+        body: JSON.stringify({ error: "invalid or missing parameters" }),
       };
     }
 
     const uuid = nanoid();
 
     // Create SQS task.
-    await createTask(uuid, votes);
+    await createTask(uuid, votes, ballotType, ballotPath);
 
     const payload = {
       uuid
@@ -73,8 +72,15 @@ async function generatePdf(event, context) {
   const body = JSON.parse(_.get(record, 'body', {}));
   const uuid = _.get(body, "uuid", null);
   const votes = _.get(body, "votes", null);
+  const ballotType = _.get(body, "ballotType", null);
+  const ballotPath = _.get(body, "ballotPath", null);
 
-  const pdf = await generateBallotPdf(votes);
+  console.log('Generating Ballot...')
+
+  const pdf = await generateBallotPdf(votes, ballotType, ballotPath);
+  
+  console.log('Uploading Ballot...')
+  
   const url = await uploadBallot({uuid, pdf});
   await schedulePdfCleanUp(uuid);
 

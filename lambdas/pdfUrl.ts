@@ -65,10 +65,7 @@ async function getPdfUrl(event: any) {
     };
   } catch (e) {
     console.log(e);
-    return {
-      statusCode: 500,
-      body: JSON.stringify(e),
-    };
+    return e
   }
 };
 
