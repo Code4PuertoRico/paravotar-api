@@ -23,17 +23,24 @@ const getConsulta = async (event: any) => {
     __EVENTTARGET: "",
     __EVENTARGUMENT: "",
     __VIEWSTATE:
-      "V2vPTtz9H36XXWyAe/vVVKT1wVVu5DwXGFTND5rDaC4hTm2monjkiL+lD4w/Ue8SD/MPrBJgwuaLtmIIsh07O5sBtSWpiigN3MDTG8tU4s0=",
-    __VIEWSTATEGENERATOR: "669660C9",
+      "BGvFZPW/ZrpJW4HvulQKH31khalXuIbgYAmkgebro4ljbcBdCvdMXWljuaXzj2k5bkoMyfEpayW3uEAJATwOw3G8b5+3/NL6vyA0nDleQLSqSQuuQuf2RXuDROpX2i+hu7HKslv5vNN+TkGjPoMlZCuh/XMd+JYado3AM8KMGXYSSJGDxm14PyOdqDYNiOSL3Lw3spRaBknkRsh98YQiwA==",
+    __VIEWSTATEGENERATOR: "A8C19350",
     __EVENTVALIDATION:
-      "Xhpss61UphBcy0HQqyx9jfoy9SimyMWMbZvqsD5l67Z47PpRx1lNDHhh3OKPVM1tw7s07hyIoCFKo2qK+avvhkz64z1hwfmdM/apTSgUsrl7ZJcv1pk9HfIKovrW5qN9sHhMHHsDw+BcVWoq6n+Li4Nr8kNiKehaa2J4uYsgMZ65SmDaoWX7pJrAuE52cYhhOSI8Lix60FckIc7Ud/fG/exBTLH9wHQRvhSv1T/ThVlbHLwYAZHbztNfpxy6+/UD9mWzsVmzmWhuQgW7AsuXww==",
-    txtNumElectoral: voterId,
+      "JwfxcY2PLyT5nmWyR16oER+6nGyMFZf4qkHb90dzKTi/+qNMzuhIFPjX2cIj3dJ8gpQULRjf1Hcf1o1LB+7DcS9uvvhdT43r8ST4z9KyKkrBrCYalaR4qHQ4kOgiEkt72wzUxVsH+DV2wFBa4qg2xvzJIfBdPoSTMFFwhfLWXItQd2z3I72et+Q55zQFuaIp+usvtF2BPXTHuKkqW8ccSQ0qCOmUDEgnQz46Q1/hlv1W5njy6QmK5Q3YbULb9icoK5XWRIR57E0eL+/4egolJlxQrtzUQZoBLV5xolSyy79k2OtlET85cFGHc2bnUzbDbapW0KPod/7DROxmnAbTPLRXjyr6iOI92Z92yb0O7J3YvdGYAFGJP7ex5yt3HPGKeEOCCf5Cp46nYVlxqNwqPw==",
     btnConsulta: "Buscar",
+    txtNumElectoral: voterId,
     txtNumeroElectoral: "",
     txtFechaNacimiento: "",
+    txtEstatus: "",
+    txtCategoria: "",
     txtPrecinto: "",
     txtUnidad: "",
-    txtEstatus: "",
+    txtColegio: "",
+    txtPagina: "",
+    txtLinea: "",
+    txtCentro: "",
+    txtDireccion: "",
+    txtFechaVotacion: "",
   };
 
   let resp;
