@@ -27,5 +27,6 @@ export const getOCRText = (
       apikey: apiKey,
     },
     body: form,
-  }).then(res => res.json());
+  }).then(res => res.json())
+  .catch(e => console.log(e));
 };
