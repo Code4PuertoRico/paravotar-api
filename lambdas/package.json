@@ -9,7 +9,7 @@
     "@middy/http-cors": "^1.0.0-beta.8",
     "@middy/http-error-handler": "^1.0.0-beta.8",
     "aws-sdk": "^2.668.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chrome-aws-lambda": "^2.1.1",
     "dotenv": "^8.2.0",
     "lodash": "^4.17.15",
