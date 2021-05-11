@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "puppeteer": "^2.1.1",
     "minimist": "^1.2.5"
   }
