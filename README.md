@@ -5,8 +5,8 @@ Repositorio base para todo proyecto en Code 4 Puerto Rico.
 > [!IMPORTANT]
 > El desarrollow y mantenimiento de este repository a sido transferido a la organización [Para-Votar](https://github.com/Para-Votar).
 > Este repositorio sera archivado y se mantendra accesible. Para cualquier pregunta y colaboración por favor vaya a
-> - [Para Votar Issues](https://github.com/Para-Votar/paravotar-api/issues)
-> - [Para Votar Discussions](https://github.com/Para-Votar/paravotar-api/discussions)
+> - [Para Votar API Issues](https://github.com/Para-Votar/paravotar-api/issues)
+> - [Para Votar API Discussions](https://github.com/Para-Votar/paravotar-api/discussions)
 
 ## Como utilizar esto
 
